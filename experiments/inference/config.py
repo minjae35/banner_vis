@@ -7,7 +7,7 @@
 import os
 
 # 기본 경로 설정
-BASE_DIR = "/home/intern/banner_vis"
+BASE_DIR = "/home/intern2/banner_vis"
 DATA_DIR = os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot")
 
 # 모델 설정
@@ -25,7 +25,7 @@ MODEL_CONFIGS = {
 }
 
 # 체크포인트 기본 경로
-CHECKPOINT_BASE_PATH = "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/organized_checkpoints"
+CHECKPOINT_BASE_PATH = "/home/intern2/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/organized_checkpoints"
 
 # 체크포인트 설정
 CHECKPOINT_CONFIGS = {
@@ -111,39 +111,39 @@ DATA_FILES = {
 # 테스트 이미지 경로들 (24장)
 TEST_IMAGE_PATHS = {
     "wrap": [
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aq_IMG_0268_13.jpg"
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bI_IMG_9552_7.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bl_IMG_5632_9.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_8K_IMG_5533_13.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_AM_IMG_7629_12.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aj_IMG_5781_17.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aq_IMG_0268_13.jpg")
     ],
     "flat": [
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0742.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0643.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0648.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0661.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0720.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0726.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0727.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0740.jpg"
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0742.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0643.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0648.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0661.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0720.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0726.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0727.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/flat/0740.jpg")
     ],
     "crop": [
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_135829_001_16.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240909_174707_15.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240910_075423_45.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_120105_1.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_121828_18.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_124914_40.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_131053_16.jpg",
-        "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_132132_16.jpg"
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_135829_001_16.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240909_174707_15.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240910_075423_45.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_120105_1.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_121828_18.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_124914_40.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_131053_16.jpg"),
+        os.path.join(BASE_DIR, "data/experiments/validation_test/datasets/cot/test_image/crop/20240911_132132_16.jpg")
     ]
 }
 
 # 결과 디렉토리 기본 경로
-RESULTS_BASE_DIR = "/home/intern/banner_vis/experiments/inference/inference_results"
+RESULTS_BASE_DIR = "/home/intern2/banner_vis/experiments/inference/inference_results"
 
 def get_checkpoint_path(checkpoint_name):
     """체크포인트 경로 반환"""
