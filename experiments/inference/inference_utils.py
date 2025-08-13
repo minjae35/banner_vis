@@ -145,6 +145,18 @@ def run_single_inference(model, processor, device, image_path, prompt_text):
         generated_ids_only = generated_ids[0][model_inputs["input_ids"].shape[1]:]
         response_text = processor.batch_decode([generated_ids_only], skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
         
+        # 줄바꿈 토큰 복원
+        response_text = response_text.replace('<|multiple_break|>', '\n\n\n')
+        response_text = response_text.replace('<|paragraph_break|>', '\n\n')
+        response_text = response_text.replace('<|line_break|>', '\n')
+        
+        # 추가적인 줄바꿈 보존을 위한 후처리
+        # - 토크나이저가 줄바꿈 처리를 할때, 때로는 다음과 같은 이스케이스된 형태로 출력할 수 있음.
+        # - response_text = "자영업자 전문대출\\n최대한도 2억원까지"  # 이스케이프된 형태
+        # - response_text = "자영업자 전문대출\\r\\n최대한도 2억원까지"  # Windows 스타일
+        # 하지만, 새로 추가한 <|paragraph_break|>, <|line_break|>가 제대로 작동을 한다면, 이미 올바른 줄바꿈이 적용되므로, 추가적인 이스케이프 처리는 불필요할 수 있음.
+        response_text = response_text.replace('\\n', '\n').replace('\\r\\n', '\n')
+        
         return {
             "image_path": image_path,
             "image_name": img_name,
