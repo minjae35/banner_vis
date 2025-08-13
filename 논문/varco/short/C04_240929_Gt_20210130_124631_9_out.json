@@ -1,0 +1,32 @@
+{
+  "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+  "width": 672,
+  "height": 672,
+  "time": "2025-08-06 22:41:30",
+  "annotation": [
+    {
+      "bbox_normalized": [
+        0.0588473379611969,
+        0.35015442967414856,
+        0.8624279499053955,
+        0.6489967107772827
+      ],
+      "bbox_abs": [
+        60.259674072265625,
+        358.5581359863281,
+        883.126220703125,
+        664.5726318359375
+      ],
+      "confidence": 0.6335159540176392,
+      "crop_path": "output/C04_240929_Gt_20210130_124631_9_crop_1.jpg"
+    }
+  ],
+  "banner_annotation": [],
+  "summary": {
+    "0": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    }
+  }
+}

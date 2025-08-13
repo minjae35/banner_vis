@@ -1,0 +1,11 @@
+{
+  "image_name": "20240910_075423_45",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240910_075423_45.jpg",
+  "time": "2025-08-06 22:07:57",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "문창교~부사오거리 도로정비 부분통제\n\n8월 31일(토) ~ 10월 20일(일)\n\n통행에 불편을 드리 대단히 죄송합니다.\n\n대전광역시"
+}

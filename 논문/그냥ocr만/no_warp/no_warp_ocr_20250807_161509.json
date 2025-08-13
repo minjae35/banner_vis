@@ -1,0 +1,194 @@
+[
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "image_name": "D05_240929_AM_IMG_7629_12.jpg",
+    "ocr_text": "위치갑 송도 1공구아파트 및 단지내상가 포스코 자사고 앞 파격 조건 분양 032-870-6940",
+    "timestamp": "2025-08-07T16:14:17.336087",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_AM_IMG_7629_12"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "image_name": "D05_240929_bl_IMG_5632_9.jpg",
+    "ocr_text": "1,320세대 대단지 신규아파트 시민공원역 초역세권 032-860-2401",
+    "timestamp": "2025-08-07T16:14:18.869526",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_bl_IMG_5632_9"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "image_name": "D05_240929_Wx_IMG_4882_9.jpg",
+    "ocr_text": "시퍼스티일스 SAILMIES 가좌역 대단지 아파트 발코니! 2억~3억 청약통 032-262-1209",
+    "timestamp": "2025-08-07T16:14:20.685207",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_Wx_IMG_4882_9"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "image_name": "D05_240929_bI_IMG_9552_7.jpg",
+    "ocr_text": "이미지의 텍스트는 다음과 같습니다: 예양경찰청 지정 031-496-0022 보트/요트 시험면제 면허취득",
+    "timestamp": "2025-08-07T16:14:22.509047",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_bI_IMG_9552_7"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "image_name": "D05_240929_aj_IMG_5781_17.jpg",
+    "ocr_text": "해오름 축제 한가락 5일 27인 (토) 오전 1:00 ~ 6:00 참여음악단 박강수 백영규 마라글 보이즈 / 박호명 / 고야라 최대경 풀파티 장소: 세종대왕릉 정원 시간: 18:00 ~ 23:00 문의처: 세종대왕릉 관리본부",
+    "timestamp": "2025-08-07T16:14:26.674234",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_aj_IMG_5781_17"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "image_name": "C04_240929_Gt_20210130_124631_9.jpg",
+    "ocr_text": "태양광 전국특판모집 010-4019-4333 전국지사무모집 1588-3174 영업소장 면봉1억 남·여20명 팀레파워黛 면봉5천 남·여10명 사동모집 면봉1억 10명",
+    "timestamp": "2025-08-07T16:14:29.993419",
+    "checkpoint_name": "no_warp",
+    "image_id": "C04_240929_Gt_20210130_124631_9"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "image_name": "D05_240929_8K_IMG_5533_13.jpg",
+    "ocr_text": "한화 포레나 인천구월 층: 1,15세대 (59㎡ / 74㎡ / 84㎡) 무순위 청약 8월 29일(월) 1600.1211 FORENA 한화 포레나 인천구월",
+    "timestamp": "2025-08-07T16:14:32.733700",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_8K_IMG_5533_13"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "image_name": "D05_240929_aq_IMG_0268_13.jpg",
+    "ocr_text": "푸르지오 즉시입주 가능 민간임대 아파트 임대료 파격할인!! 032)290.4778 2월 특별 공급분 계약중 PRUGIO ψ",
+    "timestamp": "2025-08-07T16:14:34.841477",
+    "checkpoint_name": "no_warp",
+    "image_id": "D05_240929_aq_IMG_0268_13"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0643.jpg",
+    "image_name": "0643.jpg",
+    "ocr_text": "``` PLANT IT 2004 CONFERENCE 플랜트 엔지니어링 소프트웨어를 중심으로 주최: 한국플랜트정보기술협회, 한국엔지니어링진흥협회, 성균관대산업전성평가연구센터, 플랜트엔지니어링산업인력양성센터 주관: 월간 CdGraphics 후원: 건설교통부, 과학기술부, 정보통신부, 한국게임产业发展 스폰서: 브란티시스스코리아 ```",
+    "timestamp": "2025-08-07T16:14:39.616119",
+    "checkpoint_name": "no_warp",
+    "image_id": "0643"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0648.jpg",
+    "image_name": "0648.jpg",
+    "ocr_text": "제2회 유아체능단 영어발表演회 성북구청·성북구시관리공단",
+    "timestamp": "2025-08-07T16:14:40.735107",
+    "checkpoint_name": "no_warp",
+    "image_id": "0648"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0661.jpg",
+    "image_name": "0661.jpg",
+    "ocr_text": "Party Party Happy Event zionmitz, 크리스마스, 레브데이, 엑터, 세일, 선년시, 어린이날 파티전분점 파티월드",
+    "timestamp": "2025-08-07T16:14:42.654773",
+    "checkpoint_name": "no_warp",
+    "image_id": "0661"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0742.jpg",
+    "image_name": "0742.jpg",
+    "ocr_text": "경 한·일국제 아이ки도 연무대회 축",
+    "timestamp": "2025-08-07T16:14:43.387129",
+    "checkpoint_name": "no_warp",
+    "image_id": "0742"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0726.jpg",
+    "image_name": "0726.jpg",
+    "ocr_text": "가마솥 군밤 전통 방식그대로 가마솥군밤",
+    "timestamp": "2025-08-07T16:14:44.223480",
+    "checkpoint_name": "no_warp",
+    "image_id": "0726"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0740.jpg",
+    "image_name": "0740.jpg",
+    "ocr_text": "2005년도 한국주택금융공사 시무식 2005년 1월 3일 (월)",
+    "timestamp": "2025-08-07T16:14:45.440965",
+    "checkpoint_name": "no_warp",
+    "image_id": "0740"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0720.jpg",
+    "image_name": "0720.jpg",
+    "ocr_text": "``` Show Me The Results, Better Than Process 전략영업팀 ```",
+    "timestamp": "2025-08-07T16:14:46.277562",
+    "checkpoint_name": "no_warp",
+    "image_id": "0720"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0727.jpg",
+    "image_name": "0727.jpg",
+    "ocr_text": "동계 골프훈련! 그린골프연습장에서 함께 하십시오 \"주부, 직장인(KT, LG) 신규회원 우대\" T. 573-2170",
+    "timestamp": "2025-08-07T16:14:48.230643",
+    "checkpoint_name": "no_warp",
+    "image_id": "0727"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_135829_001_16.jpg",
+    "image_name": "20240911_135829_001_16.jpg",
+    "ocr_text": "배낭예초기 (30대 한정) 반갑세일 무의 본사: 국농국농기계(주), 041-751-0401, 금성면 금성공단로19-18",
+    "timestamp": "2025-08-07T16:14:50.548218",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_135829_001_16"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240909_174707_15.jpg",
+    "image_name": "20240909_174707_15.jpg",
+    "ocr_text": "민주당 국회의원 장종태 보름달처럼 풍성한 한가위 보내세요 풍요로운 추석되세요 민주당 서구의원 강진수 거실: 9월26일~27일(오전)",
+    "timestamp": "2025-08-07T16:14:52.927272",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240909_174707_15"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_132132_16.jpg",
+    "image_name": "20240911_132132_16.jpg",
+    "ocr_text": "2024 마음에 불어오는 시원한 바람 인문 웨이브 일시: 2024. 8. 30. - 9. 27. 명소: 울산 반월산 일대 울산 공공에서 다차별 문 인종들에게는 평등합니다. in-wave.org 울산반월산 인문 울산 추출된 텍스트: 2024 마음에 불어오는 시원한 바람 인문 웨이브 일시: 2024. 8. 30. - 9. 27. 명소: 울산 반월산 일대 울산 공공에서 다차별 문 인종들에게는 평등합니다. in-wave.org 울산반월산 인문 울산",
+    "timestamp": "2025-08-07T16:15:00.052469",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_132132_16"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_124914_40.jpg",
+    "image_name": "20240911_124914_40.jpg",
+    "ocr_text": "네넉하고 웃음이 넘치는 추석 되세요 금산인장농협 조합장 강상묵",
+    "timestamp": "2025-08-07T16:15:01.202770",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_124914_40"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_121828_18.jpg",
+    "image_name": "20240911_121828_18.jpg",
+    "ocr_text": "일단 멈춤 아이 먼저 보내주세요. 행정안전부 아이만저 금산군",
+    "timestamp": "2025-08-07T16:15:02.213653",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_121828_18"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_131053_16.jpg",
+    "image_name": "20240911_131053_16.jpg",
+    "ocr_text": "1. \"오려움 발음의 화답합니다.\" 2. \"보름달처럼 넉넉한 후색 보세요.\"",
+    "timestamp": "2025-08-07T16:15:03.468358",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_131053_16"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_120105_1.jpg",
+    "image_name": "20240911_120105_1.jpg",
+    "ocr_text": "``` 우리의 생활 보호 흥미진 후루 힘을내오! 소상공인, 함께가요! 전통시장 울산중구상권을 이용합시다 울산광역시 중구 ```",
+    "timestamp": "2025-08-07T16:15:05.605901",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240911_120105_1"
+  },
+  {
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240910_075423_45.jpg",
+    "image_name": "20240910_075423_45.jpg",
+    "ocr_text": "문창교~부사오거리 도로정비 부분통제 8월 31일(토) ~ 10월 20일(일) 통행에 불편을 드리大단이 죄송합니다. 시청사 (부산광역시 부산광역시 248-2760, 제3차 대전광역시 도로공사 본사 2층 20호)",
+    "timestamp": "2025-08-07T16:15:09.353432",
+    "checkpoint_name": "no_warp",
+    "image_id": "20240910_075423_45"
+  }
+]

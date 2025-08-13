@@ -1,0 +1,10 @@
+{
+  "det": {
+    "model_path": "/home/intern/banner_vis/checkpoints/DET3.pth",
+    "gpu_id": 6
+  },
+  "sam": {
+    "model_path": "/home/intern/banner_vis/checkpoints/SEG.ckpt",
+    "gpu_id": 7
+  }
+}

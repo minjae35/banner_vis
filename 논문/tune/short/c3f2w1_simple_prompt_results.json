@@ -1,0 +1,242 @@
+[
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_135829_001_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_135829_001_16.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:06:52",
+    "ocr_result": "4배점: 30百万 → 15만원\n별문수령 조건 (VAT 불도)\n기간: 8월 20부터 ~ 초신시 까지\n배상예초기 (30대 한정) 반값세일\n문의 본사: 국국농기계(주), 041-751-0401, 금성면 금성공단로 19-18\n\n이 현수막은 다음과 같은 특징을 포함하고 있습니다:\n1. 4배점: 30百万 → 15만원이라는 문구가 포함되어 있어 특정 상품이나 서비스를 홍보하는 내용으로 보입니다.\n2. 별문수령 조건 (VAT 불도)이라는 문구는 특정 상품이나 서비스에 대한 조건을 설명하는 것으로 보입니다.\n3. 기간: 8월 20부터 ~ 초신시 까지라는 문구는 특정 이벤트나 프로모션의 일정을 안내하는 내용으로 보입니다.\n4. 배상예초기 (30대 한정) 반값세일이라는"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240909_174707_15.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240909_174707_15.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:06:55",
+    "ocr_result": "1. \"민주당 국회의원 장종태\"\n2. \"보름달처럼 풍성한 한가위 보내세요\"\n3. \"풍요로운 추석되세요\"\n4. \"가수/민/대학/2기/도전\"\n5. \"민주당 서구의원 강정수\""
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_132132_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_132132_16.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:00",
+    "ocr_result": "2024 인문학 축제 및 문화행사\n마음에 불어오는 시원한 바람 인문 웨이브\n일시: 2024. 8. 30 - 9. 27\n장소: 울산 인문웨이브\n출산 곳에서 다채로운 인물들이 펼쳐집니다.\n\n추천 기관:\n울산도시문화공원\n울산대학교\n울산문화재단\n\n추천 단체:\n울산문화재단\n울산도시문화공원\n울산대학교\n\n추천 단체: in-wavb.org\n\n추천 단체: in-wavb.org"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_124914_40.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_124914_40.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:03",
+    "ocr_result": "```\n넉넉하고 웃음이 넘치는 추석 되세요\n금산인상농협 조합장 강 삼 목\n```\n\n\n이 현수막의 텍스트는 다음과 같습니다:\n\n```\n넉넉하고 웃음이 넘치는 추석 되세요\n금산인상농협 조합장 강 삼 목\n```"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_121828_18.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_121828_18.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:04",
+    "ocr_result": "일단 멈춤 아이 먼저 보내주세요.\n행정안전부\n아이 런치즈\n금산군"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_131053_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_131053_16.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:06",
+    "ocr_result": "오늘날 발달한 환경을 지킵니다\n보름달처럼 넉넉한 추석을 선물하세요"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_120105_1.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_120105_1.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:13",
+    "ocr_result": "현수막 텍스트: \"힘을내요! 소상공인, 함께가요! 전통시장 울산중구상권을 이용합시다\"\n\"울산광역시 중구\"\n\n이 현수막은 다음과 같은 특징을 띠고 있습니다:\n1. \"힘을내요!\"라는 문구가 포함되어 있어 소상공인을 격려하는 메시지로 보입니다.\n2. \"소상공인, 함께가요!\"라는 문구는 소상공인과 함께하는 메시지를 전달합니다.\n3. \"전통시장 울산중구상권을 이용합시다\"라는 문구는 특정 상권(울산중구상권)을 홍보하고 있습니다.\n4. \"울산광역시 중구\"라는 문구는 지역 정보를 나타냅니다.\n\n이러한 요소들로 인해 현수막이 특정 상업적 또는 지역적 활동을 홍보하는 것으로 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240910_075423_45.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240910_075423_45.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:22",
+    "ocr_result": "문창교~부사오거리 도로정비 부분통제\n8월 31일(토) ~ 10월 20일(일)\n행동에 불편을 드리大단히 죄송합니다.\n시청사 (대전광역시청) 전면연락처: 042-270-9811\n부서: 대전광역시 건설环境부(042-270-9811)\n\n이 현수막은 다음과 같은 요소로 보입니다:\n\n1. \"문창교~부사오거리 도로정비 부분통제\"라는 문구가 포함되어 있으며, 이는 특정 도로 정비 작업과 관련된 내용으로 보입니다.\n2. \"8월 31일(토) ~ 10월 20일(일)\"이라는 날짜 정보가 포함되어 있어 일정을 안내하는 역할을 합니다.\n3. \"행동에 불편을 드리大단히 죄송합니다.\"라는 문구는 행정적 통제와 관련된 불편을 전달하는 내용으로 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0643.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0643.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:27",
+    "ocr_result": "PLANT IT 2004 CONFERENCE\n플랜트 엔지니어링 소프트웨어를 중심으로\n주최: 한국플랜트정보기술협회, 한국엔지니어링진흥협회, 성균관대산업인적성평가연구센터, 플랜트엔지니어링산업인력양성센터\n주관: 월간 디자인그래픽스\n후원: 건설교통부, 과학기술부, 정보통신부, 한국게임캠페인, 스폰서: 벤처리시티스코리아"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0648.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0648.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:29",
+    "ocr_result": "1. 〈성북종합레포츠타운〉\n2. 제2회 유아체능단 영어발표회\n3. 성북구청·성북구도시관리공단"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0661.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:36",
+    "ocr_result": "현수막의 텍스트는 다음과 같습니다:\n\n1. Party Party\n2. Happy Event\n3. 파티월드\n\n이 현수막은 특정 정당, 후보자, 선거 관련 문구가 포함되어 있지 않으며,\n정부·지자체·공공기관 명칭 또는 정책·단속·행정 안내 등 공익적 내용도 포함되어 있지 않습니다.\n\n따라서, 이 현수막은 정당/후보자/선거 관련, 기업/학원/상점/개인/종교/노동조합/동창회/대학 학과/협회 등 선정적 민간 단체/개인의 홍보, 행사 안내, 또는 공익적 내용(정부·지자체·공공기관 명칭 또는 정책·단속·행정 안내 등)으로 판단되지 않습니다. \n\n이러한 요소들로 인해 추가적인 분류 기준이 필요할 수 있습니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0742.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0742.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:41",
+    "ocr_result": "경 한·일국제 아이키도 연무대회 축\n\n이 현수막의 텍스트는 다음과 같은 특징을 가지고 있습니다:\n1. \"경 한·일국제 아이키도 연무대회\"라는 문구가 포함되어 있으며, 이는 특정 행사(연무대회)를 알리는 내용으로 보입니다.\n2. \"축\"이라는 단어가 포함되어 있어, 축하 또는 기념의 메시지를 전달하는 것으로 보입니다.\n\n이러한 특징들로 인해 추가적인 정보가 필요하지만, 현재의 정보만으로는 충분히 판단할 수 있는 내용입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0726.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:50",
+    "ocr_result": "현수막 텍스트: \"가마솥 군밤\"\n\"전통 방식 그대로 가마솥군밤\"\n\n이 현수막은 다음과 같은 특징을 가지고 있습니다:\n1. \"가마솥 군밤\"이라는 문구가 포함되어 있으며, 이는 전통 방식의 군밤을 홍보하는 내용으로 보입니다.\n2. \"전통 방식 그대로\"라는 문구는 특정 방식이나 기술을 강조하는 표현으로, 이는 전통적인 음식을 홍보하는 데 사용될 가능성이 있습니다.\n3. \"가마솥군밤\"이라는 문구는 특정 음식점이나 행사와 관련된 것으로 보이며, 이는 일반적으로 상업적 또는 개인적인 홍보 목적으로 사용될 가능성이 있습니다.\n\n따라서, 이 현수막은 종교, 노동조합, 정부, 지자체, 공공기관 등에서 명시적으로 공공적 또는 정책적 내용을 알리는 경우가 아니며, sempiternal(종교, 노동조합, 정부, 지자체, 공공기관 등)과도 관련이 없어 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0740.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0740.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:07:55",
+    "ocr_result": "2005년도 한국주택금융공사 시무식\n2005년 1월 3일 (월)\n\n이 현수막은 다음과 같은 특징을 띠고 있습니다:\n1. \"한국주택금융공사\"라는 공공기관 명칭이 포함되어 있습니다.\n2. \"시무식\"이라는 단어가 포함되어 있어 특정 행사나 시무식과 관련된 내용임을 나타냅니다.\n3. 날짜(2005년 1월 3일)와 주말(월요일)이 명시되어 있습니다.\n\n이러한 요소들로 인해 이 현수막은 공공기관과 관련된 행사 안내로 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0720.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:04",
+    "ocr_result": "현수막 텍스트:  \n\"Show Me The Results, Better Than Process\"\n\"전략영업팀\"\n\n이 현수막은 다음과 같은 특징을 가지고 있습니다:\n1. \"Show Me The Results, Better Than Process\"라는 문구가 포함되어 있으며, 이는 특정 프로세스나 결과를 보여주는 메시지를 강조하는 문구로 보입니다.\n2. \"전략영업팀\"이라는 단어가 포함되어 있어, 특정 단체나 팀을 홍보하는 내용으로 보입니다.\n\n따라서, 이 현수막은 다음과 같은 요소를 바탕으로 분류할 수 있습니다:\n1. 정부/공공기관 명칭 또는 정책/단속 안내 포함되지 않음.\n2. 정당명/후보자/身代적 안내 포함되지 않음.\n3. 정부·지자체·공공기관 명칭 또는 정책·단속 내용 포함되지 않음.\n4. 정부·지자체·공공기관 명칭 또는 정책·단속 안내 포함되지 않음.\n5. 정부·지자체·공공기관 명칭 또는 정책·단속 내용"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0727.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0727.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:06",
+    "ocr_result": "동계 골프훈련!\n그린골프연습장에서 함께 하십시오\n\n\"주부, 직장인(KT, LG)신규회원 우대\"\nT. 573-2170"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_AM_IMG_7629_12.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:15",
+    "ocr_result": "현수막 텍스트:  \n위치값 송도 1공구아파트 및 단지내상가 포스코 자사고 앞 파격 조건 분양 032-870-6940\n\n이 현수막은 다음과 같은 특징을 가지고 있습니다:\n1. \"위치값\"이라는 문구가 포함되어 있어 특정 장소(송도 1공구아파트 및 단지내상가)를 나타냅니다.\n2. \"포스코 자사고 앞\"이라는 문구는 특정 장소를 명시하며, 이는 특정 상점이나 상업적 활동과 관련될 가능성이 있습니다.\n3. \"파격 조건 분양\"이라는 문구는 특정 상품이나 서비스의 판매와 관련된 내용으로 보입니다.\n4. \"032-870-6940\"은 전화번호로, 이는 특정 개인이나 단체가 연락처를 제공하는 것으로 보입니다.\n\n이러한 요소들로 인해 현수막이 홍보 또는 판매와 관련된 내용으로 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_bl_IMG_5632_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:16",
+    "ocr_result": "1,320세대 대단지 신규아파트\n시민공원역 초역세권\n032) 860-2401"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_Wx_IMG_4882_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:19",
+    "ocr_result": "사피스티밀스 FAMILIES\n가좌역 대단지 아파트\n032-262-1209\n2억~3억\n청약동\n\n이 현수막의 텍스트는 다음과 같습니다:\n\n사피스티밀스 FAMILIES\n가좌역 대단지 아파트\n032-262-1209\n2억~3억\n청약동"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_bI_IMG_9552_7.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:28",
+    "ocr_result": "현수막 텍스트: \"애양경찰청 지정\n031-496-0022\n보트/요트 시험면제 면허취득\"\n\n이 현수막의 텍스트는 다음과 같습니다:\n\n1. \"애양경찰청 지정\" - 이는 특정 기관(애양경찰청)과 관련된 정보로 보입니다.\n2. \"031-496-0022\" - 전화번호로 보이며, 특정 기관이나 단체와 연관될 가능성이 있습니다.\n3. \"보트/요트 시험면제 면허취득\" - 이는 특정 서비스나 프로그램과 관련된 내용으로 보입니다.\n\n이 현수막은 다음과 같은 특징을 가지고 있습니다:\n\\textbf{1. 공익적 성격:} 특정 기관(애양경찰청)과 관련된 정보로, 공익적 내용을 포함하고 있을 가능성이 있습니다.\n\\textbf{2. 정부/지자체 관련:} 애양경찰청이라는 명칭이 포함되어 있어 정부 또는 지자체와 관련된 내용일 가능성이"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_aj_IMG_5781_17.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:36",
+    "ocr_result": "현수막 텍스트:\n\n해오름 축제 한가당\n5월 27일 (토)\n오후 2:00 ~ 6:00\n\n참여료: 고아라\n장소: 풀리브리\n주최: 노인회관 주민자치회\n\n박강수 백영규\n마라을 보이즈 / 박호명 / 고아라\n\n추가적으로, 오른쪽에는 \"회원검색, 풀리브리\"와 같은 문구가 포함되어 있습니다. \n\n이 현수막은 특정 행사(해오름 축제)를 알리는 내용으로 보이며, 참여료, 장소, 주최 단체(노인회관 주민자치회) 등 구체적인 정보를 제공하고 있습니다. 또한, 특정 인물(박강수, 백영규, 마라을 보이즈, 박호명, 고아라)과 관련된 문구도 포함되어 있습니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "C04_240929_Gt_20210130_124631_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:39",
+    "ocr_result": "태양광 전국특판모집  \n010-4019-4333  \n전국재사모집 1588-3174  \n영업소장 연봉1억  \n남·여 20명  \n텔레마케터 연봉5천  \n남·여 10명  \n사공팀 연봉1억  \n남·여 10명"
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_8K_IMG_5533_13.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:48",
+    "ocr_result": "한화 포레나 인천구월\n무순위 청약 8월 29일(월)\n1600.1211\nFORENA\n한화 포레나 인천구월\n\n이 현수막은 다음과 같은 특징을 가지고 있습니다:\n1. \"한화 포레나\"라는 브랜드명이 포함되어 있습니다.\n2. \"인천구월\"이라는 지역명이 포함되어 있습니다.\n3. \"무순위 청약 8월 29일(월)\"이라는 문구가 포함되어 있으며, 이는 특정 주택 분양 행사를 알리는 내용으로 보입니다.\n4. \"1600.1211\"과 \"FORENA\"는 특정 연락처와 브랜드명으로 보입니다.\n5. \"한화 포레나 인천구월\"이라는 문구는 특정 건설사와 관련된 내용으로 보입니다.\n\n이러한 요소들로 인해 현수막이 홍보 또는 행정 안내와 관련된 내용보다는 특정 브랜드의 주택 분양 행사를 알리는 것으로 보입니다."
+  },
+  {
+    "checkpoint_name": "c3f2w1",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_c3f2w1_experiment_gpu67/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_aq_IMG_0268_13.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "prompt": "<obj>이 현수막</obj>위 현수막의 텍스트를 꼼꼼하게 읽고, 내용을 말해주세요",
+    "time": "2025-08-06 22:08:57",
+    "ocr_result": "현수막에 포함된 텍스트는 다음과 같습니다:\n\n푸르지오 즉시입주 가능 민간임대 아파트 PRUGIO\n\n임대료 파격할인!! 032)290.4778\n\n2월 특별 공급분 계약중\n\n이 텍스트는 다음과 같은 특징을 가지고 있습니다:\n1. \"푸르지오\"라는 브랜드명이 포함되어 있어 특정 아파트 브랜드를 홍보하는 내용으로 보입니다.\n2. \"즉시입주 가능 민간임대 아파트\"라는 문구는 민간임대 아파트와 관련된 정보를 제공하며, 이는 주거 서비스와 관련된 홍보로 보입니다.\n3. \"임대료 파격할인!!\"이라는 문구는 특정 혜택을 제공하는 홍보 내용으로 보입니다.\n4. \"032)290.4778\"은 전화번호로, 특정 연락처를 제공하여 추가적인 정보를 제공하는 홍보 내용으로 보입니다.\n5. \"2월 특별 공급분 계약중\"이라는 문"
+  }
+]

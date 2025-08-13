@@ -1,0 +1,11 @@
+{
+  "image_name": "0720",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+  "time": "2025-08-06 22:08:40",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"Show Me The Results, Better Than Process\"\n\n또한 한국어로 \"전략영업팀\"이라는 텍스트가 있습니다."
+}

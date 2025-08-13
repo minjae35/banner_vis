@@ -1,0 +1,11 @@
+{
+  "image_name": "20240911_124914_40",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_124914_40.jpg",
+  "time": "2025-08-06 22:08:08",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"닉닉하고 웃음이 넘치는 추석 되세요\"\n\n이 현수막은 추석을 맞아 웃음과 즐거움을 주제로 한 광고입니다."
+}

@@ -1,0 +1,11 @@
+{
+  "image_name": "0643",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0643.jpg",
+  "time": "2025-08-06 22:08:29",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막은 \"PLANT IT 2004 CONFERENCE\"라는 제목으로, 한국플랜트정보기술협회와 한국엔지니어링진흥협회, 성균관대산업안전성평가연구센터, 플랜트엔지니어링산업인력양성센터가 주최하고 있으며, 건설교통부, 과학기술부, 정보통신부, 한국게드캠퍼스 등이 후원하고 있습니다. 스폰서는 벤처리시스템즈코리아입니다."
+}

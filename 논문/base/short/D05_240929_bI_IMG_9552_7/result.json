@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_bI_IMG_9552_7",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+  "time": "2025-08-06 22:09:46",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"애양경찰서 지정\n031-496-0022\n브트/요트 시험면제 면허취득\"\n\n이 현수막은 애양경찰서에서 브트(트래커)와 요트(야외용 선박)에 대한 시험면제 면허 취득을 지원하고 있는 것을 나타냅니다."
+}

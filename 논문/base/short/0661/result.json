@@ -1,0 +1,11 @@
+{
+  "image_name": "0661",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+  "time": "2025-08-06 22:08:37",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막에는 다음과 같은 텍스트가 있습니다:\n\n- Party Party\n- Happy Event\n- 파티 월드\n\n이 텍스트는 '파티 월드'라는 이름의 회사나 조직의 로고 또는 상징적인 문구일 가능성이 높습니다."
+}

@@ -1,0 +1,11 @@
+{
+  "image_name": "0742",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0742.jpg",
+  "time": "2025-08-06 22:08:58",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막의 텍스트는 \"한·일국제 아이키도 연무대회 축\"입니다."
+}

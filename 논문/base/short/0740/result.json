@@ -1,0 +1,11 @@
+{
+  "image_name": "0740",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0740.jpg",
+  "time": "2025-08-06 22:08:56",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"2005년도 한국주택금융공사 시무식\n2005년 1월 3일 (월)\"\n\n이 현수막은 2005년 1월 3일에 한국주택금융공사에서 열린 시무식(임기 시작식)에 대한 정보를 나타내고 있습니다."
+}

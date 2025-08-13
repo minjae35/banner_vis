@@ -1,0 +1,266 @@
+[
+  {
+    "image_name": "20240909_174707_15",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240909_174707_15.jpg",
+    "time": "2025-08-06 22:07:52",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"보름달처럼 풍성한 한가위 보내세요\n민주당 국회의원 장종태\n풍요로운 추석되세요\n강정수\"\n\n이 현수막은 민주당 국회의원 장종태와 강정수의 추석 축하 메시지를 전달하고 있습니다."
+  },
+  {
+    "image_name": "20240910_075423_45",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240910_075423_45.jpg",
+    "time": "2025-08-06 22:07:57",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "문창교~부사오거리 도로정비 부분통제\n\n8월 31일(토) ~ 10월 20일(일)\n\n통행에 불편을 드리 대단히 죄송합니다.\n\n대전광역시"
+  },
+  {
+    "image_name": "20240911_120105_1",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_120105_1.jpg",
+    "time": "2025-08-06 22:08:02",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"울산중구상권을 이용합시다\"\n\n이 현수막은 울산광역시 중구의 상권을 홍보하고 있는 것으로 보입니다."
+  },
+  {
+    "image_name": "20240911_121828_18",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_121828_18.jpg",
+    "time": "2025-08-06 22:08:05",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n일단 멈춤 아이 먼저 보내주세요.\n\n이 현수막은 아이가 교통사고를 일으키지 않도록 주의를 기울이는 것을 권장하는 내용입니다."
+  },
+  {
+    "image_name": "20240911_124914_40",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_124914_40.jpg",
+    "time": "2025-08-06 22:08:08",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"닉닉하고 웃음이 넘치는 추석 되세요\"\n\n이 현수막은 추석을 맞아 웃음과 즐거움을 주제로 한 광고입니다."
+  },
+  {
+    "image_name": "20240911_131053_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_131053_16.jpg",
+    "time": "2025-08-06 22:08:10",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"고객님 방문을 환영합니다.\n보름달처럼 넉넉한 추석 인사드립니다.\""
+  },
+  {
+    "image_name": "20240911_132132_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_132132_16.jpg",
+    "time": "2025-08-06 22:08:15",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"2024\n마음에 불어오는 시원한 바람\n일시 2024.8.30 ~ 9.27\n경산 인문공감의 일대\n인문 웨이브\n경산 문화에서의 인문공감이 펼쳐집니다.\"\n\n이 현수막은 경산에서 인문공감을 주제로 한 이벤트를 알리는 것으로 보입니다."
+  },
+  {
+    "image_name": "20240911_135829_001_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_135829_001_16.jpg",
+    "time": "2025-08-06 22:08:22",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"배낭예초기 (30대 함정) 반값세일\n\n문의 본사: 국농기계(주): 041)751-0401. 금성면 금성공단로 19-18.\"\n\n이 현수막은 배낭예초기를 30대 함정으로 판매하고 있으며, 이 제품의 가격이 일반 가격보다 50% 할인된 '반값'에 판매되고 있습니다. 문의 전화 번호와 위치 정보도 함께 표시되어 있습니다."
+  },
+  {
+    "image_name": "0643",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0643.jpg",
+    "time": "2025-08-06 22:08:29",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막은 \"PLANT IT 2004 CONFERENCE\"라는 제목으로, 한국플랜트정보기술협회와 한국엔지니어링진흥협회, 성균관대산업안전성평가연구센터, 플랜트엔지니어링산업인력양성센터가 주최하고 있으며, 건설교통부, 과학기술부, 정보통신부, 한국게드캠퍼스 등이 후원하고 있습니다. 스폰서는 벤처리시스템즈코리아입니다."
+  },
+  {
+    "image_name": "0648",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0648.jpg",
+    "time": "2025-08-06 22:08:32",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"제2회 유아체능단 영어발표회\"\n\n이 현수막은 성북구청에서 주최하는 제2회 유아체능단의 영어발표회를 알리는 내용입니다."
+  },
+  {
+    "image_name": "0661",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+    "time": "2025-08-06 22:08:37",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막에는 다음과 같은 텍스트가 있습니다:\n\n- Party Party\n- Happy Event\n- 파티 월드\n\n이 텍스트는 '파티 월드'라는 이름의 회사나 조직의 로고 또는 상징적인 문구일 가능성이 높습니다."
+  },
+  {
+    "image_name": "0720",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+    "time": "2025-08-06 22:08:40",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"Show Me The Results, Better Than Process\"\n\n또한 한국어로 \"전략영업팀\"이라는 텍스트가 있습니다."
+  },
+  {
+    "image_name": "0726",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+    "time": "2025-08-06 22:08:46",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"가마솥 군밥\n전통 방식그대로 가마솥군밥\"\n\n이 현수막은 \"가마솥 군밥\"이라는 음식을 판매하는 곳을 알리는 것으로 보입니다. \"전통 방식그대로 가마솥군밥\"은 이 음식이 전통적인 방식으로 만든 것임을 강조하고 있습니다."
+  },
+  {
+    "image_name": "0727",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0727.jpg",
+    "time": "2025-08-06 22:08:52",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"동계 골프훈련!\n그린골프연습장에서 함께 하십시오\n\n\"주부, 직장인(KT,LG)신규회원 우대\"\nT. 573-2170\"\n\n이 현수막은 동계에 맞춰 골프를 연습할 수 있는 곳을 소개하고 있으며, KT와 LG 신규 회원에게 우대를 제공한다는 내용입니다. 전화번호는 573-2170입니다."
+  },
+  {
+    "image_name": "0740",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0740.jpg",
+    "time": "2025-08-06 22:08:56",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"2005년도 한국주택금융공사 시무식\n2005년 1월 3일 (월)\"\n\n이 현수막은 2005년 1월 3일에 한국주택금융공사에서 열린 시무식(임기 시작식)에 대한 정보를 나타내고 있습니다."
+  },
+  {
+    "image_name": "0742",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0742.jpg",
+    "time": "2025-08-06 22:08:58",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "이 현수막의 텍스트는 \"한·일국제 아이키도 연무대회 축\"입니다."
+  },
+  {
+    "image_name": "C04_240929_Gt_20210130_124631_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "time": "2025-08-06 22:09:05",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"태양광 전국특판모집\n010-4019-4333\n전국지사모집 1588-3174\n\n영업소장\n连通1억\n남·여20명\n연봉6천\n연봉1억\n연봉5천\n연봉10명\n사동동\n팀레이커더\n여10명\"\n\n이 현수막은 태양광 전국 특판 모집을 알리는 내용과 함께, 영업소장, 연봉 정보, 그리고 전국 지사 모집에 대한 정보를 제공하고 있습니다."
+  },
+  {
+    "image_name": "D05_240929_8K_IMG_5533_13",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "time": "2025-08-06 22:09:21",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"한화 포레나 인천구월\n총 1,15세대 (59㎡/74㎡/84㎡)\nFORENA\n무순위 청약 8월 29일(월)\n1600.1211\n\n한화 포레나 인천구월\"\n\n이 현수막은 한화 포레나 인천구월 아파트의 정보를 나타내고 있습니다. 주요 내용은 다음과 같습니다:\n\n1. 아파트 이름: 한화 포레나 인천구월\n2. 총 세대 수: 1,15세대\n3. 각 세대의 면적: 59㎡, 74㎡, 84㎡\n4. 공급사: FORENA\n5. 청약 일정: 8월 29일(월)\n6. 청약 번호: 1600.1211\n\n이 현수막은 해당 아파트의 주요 정보를 전달하고 있으며, 청약 일정과 번호를 알려주어 주택 구매자에게 정보를 제공"
+  },
+  {
+    "image_name": "D05_240929_AM_IMG_7629_12",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "time": "2025-08-06 22:09:26",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"위치감 송도 1공구아파트 및 단지내상가 포스코 자사고 앞 파격 조건 분양 032-870-6940\"\n\n이 현수막은 송도 1공구아파트와 단지 내 상가에 위치한 포스코 자사고 앞에서 파격 조건으로 분양하고 있는 것을 알 수 있습니다."
+  },
+  {
+    "image_name": "D05_240929_Wx_IMG_4882_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "time": "2025-08-06 22:09:30",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"시모스티밀스\n대단지 아파트\n발코니\n2억~3\n032-262-1209\n청약동\"\n\n이 현수막은 아파트의 정보를 안내하고, 청약 접수 전화번호를 제공합니다."
+  },
+  {
+    "image_name": "D05_240929_aj_IMG_5781_17",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "time": "2025-08-06 22:09:35",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"한우를 속게 한가장 박강수 백영규\n5월 27일(토) 오후 2:00 ~ 6:00\n한아름 그룹무관\n마라클 보이즈 / 박호명 / 고야라\n\n도와드린다고 믿을 수 없지만, 이로"
+  },
+  {
+    "image_name": "D05_240929_aq_IMG_0268_13",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "time": "2025-08-06 22:09:41",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"푸르자오 즉시입주 가능 민간임대 아파트 PRUCIO\n\n임대료 파격할인!!!\n2월 특별 공급분 겨약중 032)290.4778\"\n\n이 현수막은 민간임대 아파트의 입주를 유도하고, 임대료를 할인하여 인센티브를 제공하는 내용입니다. 또한, 2월에 특별 공급분이 제공될 예정이라고 합니다."
+  },
+  {
+    "image_name": "D05_240929_bI_IMG_9552_7",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "time": "2025-08-06 22:09:46",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"애양경찰서 지정\n031-496-0022\n브트/요트 시험면제 면허취득\"\n\n이 현수막은 애양경찰서에서 브트(트래커)와 요트(야외용 선박)에 대한 시험면제 면허 취득을 지원하고 있는 것을 나타냅니다."
+  },
+  {
+    "image_name": "D05_240929_bl_IMG_5632_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "time": "2025-08-06 22:09:49",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    },
+    "vlm_raw": "1,320세대 대단지 신규아파트 시민공원역 초역세권 O32) 86O-24O1"
+  }
+]

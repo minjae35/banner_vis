@@ -1,0 +1,11 @@
+{
+  "image_name": "20240909_174707_15",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240909_174707_15.jpg",
+  "time": "2025-08-06 22:07:52",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"보름달처럼 풍성한 한가위 보내세요\n민주당 국회의원 장종태\n풍요로운 추석되세요\n강정수\"\n\n이 현수막은 민주당 국회의원 장종태와 강정수의 추석 축하 메시지를 전달하고 있습니다."
+}

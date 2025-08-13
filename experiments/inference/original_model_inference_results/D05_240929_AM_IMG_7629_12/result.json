@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_AM_IMG_7629_12",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+  "time": "2025-08-13 15:02:14",
+  "summary": {
+    "ori_txt": "현수막 내용 읽기",
+    "ban_cls": "민간 현수막",
+    "reason": "현수막에는 상업 광고와 학원/상점/개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 상업 광고와 학원/상점/개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+}

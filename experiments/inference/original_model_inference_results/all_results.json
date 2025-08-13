@@ -1,0 +1,266 @@
+[
+  {
+    "image_name": "D05_240929_bI_IMG_9552_7",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "time": "2025-08-13 15:01:58",
+    "summary": {
+      "ori_txt": "현수막 내용 읽기",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 상업 광고와 개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 상업 광고와 개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "D05_240929_bl_IMG_5632_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "time": "2025-08-13 15:02:03",
+    "summary": {
+      "ori_txt": "1,320세대 대단지 신규아파트 시민공원역 초역세권 O32) 86O-24O1",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 주소와 전화번호가 포함되어 있어 정당명이나 후보자와 선거 관련 문구가 없으며, 주로 상업 광고나 개인 목적의 문구를 담고 있습니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 1,320세대 대단지 신규아파트 시민공원역 초역세권 O32) 86O-24O1\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 주소와 전화번호가 포함되어 있어 정당명이나 후보자와 선거 관련 문구가 없으며, 주로 상업 광고나 개인 목적의 문구를 담고 있습니다."
+  },
+  {
+    "image_name": "C04_240929_Gt_20210130_124631_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "time": "2025-08-13 15:02:06",
+    "summary": {
+      "ori_txt": "현수막 내용 읽기",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 전국특판모집, 연봉1억, 연봉5천 등의 상업 광고 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 전국특판모집, 연봉1억, 연봉5천 등의 상업 광고 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "D05_240929_8K_IMG_5533_13",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "time": "2025-08-13 15:02:12",
+    "summary": {
+      "ori_txt": "한화 포레나 인천구월 출 1,15세대 (59㎡/74㎡/84㎡) FORENA 무순위 청약 8월 29일(월) 1600.1211 한화 포레나 인천구월",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 한화 포레나 인천구월의 출시와 청약 일정을 알리는 공익적인 내용을 담고 있으며, 정부나 지자체의 공공기관 명칭이나 정책, 단속, 행정 안내 등 공익적 내용을 포함하고 있습니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 한화 포레나 인천구월 출 1,15세대 (59㎡/74㎡/84㎡) FORENA 무순위 청약 8월 29일(월) 1600.1211 한화 포레나 인천구월\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 한화 포레나 인천구월의 출시와 청약 일정을 알리는 공익적인 내용을 담고 있으며, 정부나 지자체의 공공기관 명칭이나 정책, 단속, 행정 안내 등 공익적 내용을 포함하고 있습니다."
+  },
+  {
+    "image_name": "D05_240929_AM_IMG_7629_12",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "time": "2025-08-13 15:02:14",
+    "summary": {
+      "ori_txt": "현수막 내용 읽기",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 상업 광고와 학원/상점/개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 상업 광고와 학원/상점/개인 목적 문구가 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "D05_240929_Wx_IMG_4882_9",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "time": "2025-08-13 15:02:18",
+    "summary": {
+      "ori_txt": "가좌역 대단지 아파트 발코니 2억~3 청약동 032-262-1209",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 아파트와 청약 등 상업적인 광고 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 가좌역 대단지 아파트 발코니 2억~3 청약동 032-262-1209\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 아파트와 청약 등 상업적인 광고 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "D05_240929_aj_IMG_5781_17",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "time": "2025-08-13 15:02:23",
+    "summary": {
+      "ori_txt": "",
+      "ban_cls": "정당 현수막",
+      "reason": "현수막에는 정당명과 후보자(박강수, 백영규)의 이름이 포함되어 있어 정당 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 정당 현수막 / 민간 현수막 / 공공 현수막\n- 판단 이유: 텍스트나 문맥을 근거로 분류 이유 설명\n\n현수막 내용은 다음과 같습니다:\n\n\"한마음 속에 한가장 박강수 백영규 마라클 보이즈 / 박호명 / 고야라\"\n\n분류 결과: 정당 현수막\n\n판단 이유: 현수막에는 정당명과 후보자(박강수, 백영규)의 이름이 포함되어 있어 정당 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "D05_240929_aq_IMG_0268_13",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "time": "2025-08-13 15:02:28",
+    "summary": {
+      "ori_txt": "푸르자오 즉시입주 가능 민간임대 아파트 PRUCIO 임대료 파격할인!!! 2월 특별 공급분 겨약중 032)290.4778",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막은 상업 광고와 개인 목적 문구를 포함하고 있으며, 정부, 지자체, 공공기관 명칭이나 공익적 내용은 포함하지 않기 때문에 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 푸르자오 즉시입주 가능 민간임대 아파트 PRUCIO 임대료 파격할인!!! 2월 특별 공급분 겨약중 032)290.4778\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막은 상업 광고와 개인 목적 문구를 포함하고 있으며, 정부, 지자체, 공공기관 명칭이나 공익적 내용은 포함하지 않기 때문에 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0742",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0742.jpg",
+    "time": "2025-08-13 15:02:33",
+    "summary": {
+      "ori_txt": "한·일국제 아이키도 연무대회 축",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막의 텍스트는 '한·일국제 아이키도 연무대회 축'으로, 이는 아이키도 연무대회를 알리는 문구이며, 정부나 지자체와 같은 공공기관이나 정당과 관련이 없습니다. 따라서 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 한·일국제 아이키도 연무대회 축\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막의 텍스트는 '한·일국제 아이키도 연무대회 축'으로, 이는 아이키도 연무대회를 알리는 문구이며, 정부나 지자체와 같은 공공기관이나 정당과 관련이 없습니다. 따라서 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0643",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0643.jpg",
+    "time": "2025-08-13 15:02:37",
+    "summary": {
+      "ori_txt": "\"PLANT IT 2004 CONFERENCE - 플랜트 엔지니어링 소프트웨어를 중심으로 -\"",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 \"플랜트 엔지니어링 소프트웨어를 중심으로\"라는 문구가 포함되어 있어 공익적인 내용을 담고 있으며, 이는 공공기관이나 정책 관련 내용을 나타내는 특징을 가지고 있습니다."
+    },
+    "vlm_raw": "- 현수막 내용 : \"PLANT IT 2004 CONFERENCE - 플랜트 엔지니어링 소프트웨어를 중심으로 -\"\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 \"플랜트 엔지니어링 소프트웨어를 중심으로\"라는 문구가 포함되어 있어 공익적인 내용을 담고 있으며, 이는 공공기관이나 정책 관련 내용을 나타내는 특징을 가지고 있습니다."
+  },
+  {
+    "image_name": "0648",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0648.jpg",
+    "time": "2025-08-13 15:02:40",
+    "summary": {
+      "ori_txt": "제2회 유아체능단 영어발표회",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 \"제2회 유아체능단 영어발표회\"라는 문구가 포함되어 있어, 정부나 지자체와 관련된 공익적인 행사를 알리는 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 제2회 유아체능단 영어발표회\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 \"제2회 유아체능단 영어발표회\"라는 문구가 포함되어 있어, 정부나 지자체와 관련된 공익적인 행사를 알리는 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0661",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0661.jpg",
+    "time": "2025-08-13 15:02:44",
+    "summary": {
+      "ori_txt": "Party party, Happy event, 파티 월드",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 'Party party', 'Happy event', '파티 월드'와 같은 표현들이 포함되어 있어 상업 광고나 학원/상점/개인 목적 문구를 의미합니다. 따라서 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : Party party, Happy event, 파티 월드\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 'Party party', 'Happy event', '파티 월드'와 같은 표현들이 포함되어 있어 상업 광고나 학원/상점/개인 목적 문구를 의미합니다. 따라서 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0720",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0720.jpg",
+    "time": "2025-08-13 15:02:47",
+    "summary": {
+      "ori_txt": "Show Me The Results, Better Than Process 전략영업팀",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 \"전략영업팀\"이라는 문구가 포함되어 있어, 상업 광고나 개인 목적의 문구를 담고 있는 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : Show Me The Results, Better Than Process 전략영업팀\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 \"전략영업팀\"이라는 문구가 포함되어 있어, 상업 광고나 개인 목적의 문구를 담고 있는 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0726",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0726.jpg",
+    "time": "2025-08-13 15:02:51",
+    "summary": {
+      "ori_txt": "가마솥 군밥 전통 방식그대로 가마솥군밥",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막은 '가마솥 군밥'과 같은 음식 광고이며, 정당명, 후보자, 선거 관련 문구나 공익적 내용이 없어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 가마솥 군밥 전통 방식그대로 가마솥군밥\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막은 '가마솥 군밥'과 같은 음식 광고이며, 정당명, 후보자, 선거 관련 문구나 공익적 내용이 없어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0727",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0727.jpg",
+    "time": "2025-08-13 15:02:56",
+    "summary": {
+      "ori_txt": "동계 골프훈련! 그린골프연습장에서 함께 하십시오. 주부, 직장인(KT,LG)신규회원 우대 T. 573-2170",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막은 골프훈련을 위한 교육 및 훈련을 제공하는 곳을 알리는 광고이며, KT와 LG 신규회원을 유치하는 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 동계 골프훈련! 그린골프연습장에서 함께 하십시오. 주부, 직장인(KT,LG)신규회원 우대 T. 573-2170\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막은 골프훈련을 위한 교육 및 훈련을 제공하는 곳을 알리는 광고이며, KT와 LG 신규회원을 유치하는 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "0740",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0740.jpg",
+    "time": "2025-08-13 15:03:00",
+    "summary": {
+      "ori_txt": "2005년도 한국주택금융공사 시무식 2005년 1월 3일 (월)",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 한국주택금융공사의 시무식을 알리는 공익적인 내용을 담고 있으며, 정부와 공공기관의 명칭을 사용하고 있습니다. 따라서 공공 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 2005년도 한국주택금융공사 시무식 2005년 1월 3일 (월)\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 한국주택금융공사의 시무식을 알리는 공익적인 내용을 담고 있으며, 정부와 공공기관의 명칭을 사용하고 있습니다. 따라서 공공 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "20240911_135829_001_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_135829_001_16.jpg",
+    "time": "2025-08-13 15:03:03",
+    "summary": {
+      "ori_txt": "배낭예초기 (30대 향정) 반값세일",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막은 상업 광고로 보이며, 상품(배낭예초기)과 할인 정보를 포함하고 있습니다. 따라서 민간 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 배낭예초기 (30대 향정) 반값세일\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막은 상업 광고로 보이며, 상품(배낭예초기)과 할인 정보를 포함하고 있습니다. 따라서 민간 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "20240909_174707_15",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240909_174707_15.jpg",
+    "time": "2025-08-13 15:03:07",
+    "summary": {
+      "ori_txt": "\"보름달처럼 풍성한 한가위 보내세요 민주당 국회의원 장종태 풍요로운 추석되세요 강정수\"",
+      "ban_cls": "정당 현수막",
+      "reason": "현수막에는 정당명(민주당), 후보자(장종태), 그리고 선거 관련 문구(추석)가 포함되어 있어 정당 현수막에 해당합니다."
+    },
+    "vlm_raw": "- 현수막 내용 : \"보름달처럼 풍성한 한가위 보내세요 민주당 국회의원 장종태 풍요로운 추석되세요 강정수\"\n- 분류 결과: 정당 현수막\n- 판단 이유: 현수막에는 정당명(민주당), 후보자(장종태), 그리고 선거 관련 문구(추석)가 포함되어 있어 정당 현수막에 해당합니다."
+  },
+  {
+    "image_name": "20240910_075423_45",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240910_075423_45.jpg",
+    "time": "2025-08-13 15:03:11",
+    "summary": {
+      "ori_txt": "문창교~부사오거리 도로정비 부분통제 8월 31일(토) ~ 10월 20일(일)",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 대전광역시에서 주최하는 도로정비 공공 행사에 대한 안내를 담고 있으며, 정부나 지자체의 공익적 내용을 담고 있습니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 문창교~부사오거리 도로정비 부분통제 8월 31일(토) ~ 10월 20일(일)\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 대전광역시에서 주최하는 도로정비 공공 행사에 대한 안내를 담고 있으며, 정부나 지자체의 공익적 내용을 담고 있습니다."
+  },
+  {
+    "image_name": "20240911_120105_1",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_120105_1.jpg",
+    "time": "2025-08-13 15:03:15",
+    "summary": {
+      "ori_txt": "현수막 내용 읽기",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막에는 \"울산중구상권을 이용합시다\"와 같은 문구가 포함되어 있어, 공익적인 내용을 담고 있는 것으로 보입니다. 또한, 현수막은 울산광역시 중구에서 제작된 것으로 보아 공공 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 현수막 내용 읽기\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막에는 \"울산중구상권을 이용합시다\"와 같은 문구가 포함되어 있어, 공익적인 내용을 담고 있는 것으로 보입니다. 또한, 현수막은 울산광역시 중구에서 제작된 것으로 보아 공공 현수막으로 분류됩니다."
+  },
+  {
+    "image_name": "20240911_121828_18",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_121828_18.jpg",
+    "time": "2025-08-13 15:03:19",
+    "summary": {
+      "ori_txt": "일단 멈춤 아이 먼저 보내주세요.",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막에는 \"일단 멈춤 아이 먼저 보내주세요.\"라는 문구가 포함되어 있어, 정부나 지자체의 공익적 안내 메시지로 보입니다. 또한, 현수막 위에는 \"영정마련부\"와 \"아이 보호조항\"이라는 문구가 포함되어 있어, 공공기관의 명칭이나 정책을 알리는 현수막으로 추정됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 일단 멈춤 아이 먼저 보내주세요.\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막에는 \"일단 멈춤 아이 먼저 보내주세요.\"라는 문구가 포함되어 있어, 정부나 지자체의 공익적 안내 메시지로 보입니다. 또한, 현수막 위에는 \"영정마련부\"와 \"아이 보호조항\"이라는 문구가 포함되어 있어, 공공기관의 명칭이나 정책을 알리는 현수막으로 추정됩니다."
+  },
+  {
+    "image_name": "20240911_124914_40",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_124914_40.jpg",
+    "time": "2025-08-13 15:03:22",
+    "summary": {
+      "ori_txt": "\"닉닉하고 웃음이 넘치는 추석 되세요\"",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막에는 상업 광고와 개인 목적 문구가 포함되어 있어 민간 현수막에 해당합니다."
+    },
+    "vlm_raw": "현수막 내용 : \"닉닉하고 웃음이 넘치는 추석 되세요\"\n분류 결과: 민간 현수막\n판단 이유: 현수막에는 상업 광고와 개인 목적 문구가 포함되어 있어 민간 현수막에 해당합니다."
+  },
+  {
+    "image_name": "20240911_131053_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_131053_16.jpg",
+    "time": "2025-08-13 15:03:25",
+    "summary": {
+      "ori_txt": "보름달처럼 넉넉한 후박입니다.",
+      "ban_cls": "민간 현수막",
+      "reason": "현수막의 텍스트는 상업 광고와 관련된 문구로, 정당, 공공기관, 지자체와 관련된 내용이 아닌 것으로 보입니다."
+    },
+    "vlm_raw": "- 현수막 내용 : 보름달처럼 넉넉한 후박입니다.\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막의 텍스트는 상업 광고와 관련된 문구로, 정당, 공공기관, 지자체와 관련된 내용이 아닌 것으로 보입니다."
+  },
+  {
+    "image_name": "20240911_132132_16",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_132132_16.jpg",
+    "time": "2025-08-13 15:03:29",
+    "summary": {
+      "ori_txt": "\"마음에 불어오는 시원한 바람 인문 웨이브 일시 2024.8.30~9.27 경소 울산 인문공간 일대\"",
+      "ban_cls": "공공 현수막",
+      "reason": "현수막은 울산 인문공간 일대에서 열리는 인문 웨이브 행사를 알리는 내용이며, 공익적인 행정 안내와 관련이 있습니다. 따라서 공공 현수막으로 분류됩니다."
+    },
+    "vlm_raw": "- 현수막 내용 : \"마음에 불어오는 시원한 바람 인문 웨이브 일시 2024.8.30~9.27 경소 울산 인문공간 일대\"\n- 분류 결과: 공공 현수막\n- 판단 이유: 현수막은 울산 인문공간 일대에서 열리는 인문 웨이브 행사를 알리는 내용이며, 공익적인 행정 안내와 관련이 있습니다. 따라서 공공 현수막으로 분류됩니다."
+  }
+]

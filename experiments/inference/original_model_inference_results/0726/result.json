@@ -1,0 +1,11 @@
+{
+  "image_name": "0726",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/flat/0726.jpg",
+  "time": "2025-08-13 15:02:51",
+  "summary": {
+    "ori_txt": "가마솥 군밥 전통 방식그대로 가마솥군밥",
+    "ban_cls": "민간 현수막",
+    "reason": "현수막은 '가마솥 군밥'과 같은 음식 광고이며, 정당명, 후보자, 선거 관련 문구나 공익적 내용이 없어 민간 현수막으로 분류됩니다."
+  },
+  "vlm_raw": "- 현수막 내용 : 가마솥 군밥 전통 방식그대로 가마솥군밥\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막은 '가마솥 군밥'과 같은 음식 광고이며, 정당명, 후보자, 선거 관련 문구나 공익적 내용이 없어 민간 현수막으로 분류됩니다."
+}

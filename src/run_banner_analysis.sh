@@ -1,0 +1,1 @@
+python banner_visualized.py --img_name image3.jpg

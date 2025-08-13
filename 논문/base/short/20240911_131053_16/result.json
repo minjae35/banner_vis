@@ -1,0 +1,11 @@
+{
+  "image_name": "20240911_131053_16",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_131053_16.jpg",
+  "time": "2025-08-06 22:08:10",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"고객님 방문을 환영합니다.\n보름달처럼 넉넉한 추석 인사드립니다.\""
+}

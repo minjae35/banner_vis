@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_aj_IMG_5781_17",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+  "time": "2025-08-06 22:09:35",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"한우를 속게 한가장 박강수 백영규\n5월 27일(토) 오후 2:00 ~ 6:00\n한아름 그룹무관\n마라클 보이즈 / 박호명 / 고야라\n\n도와드린다고 믿을 수 없지만, 이로"
+}

@@ -1,0 +1,11 @@
+{
+  "image_name": "C04_240929_Gt_20210130_124631_9",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+  "time": "2025-08-06 22:09:05",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"태양광 전국특판모집\n010-4019-4333\n전국지사모집 1588-3174\n\n영업소장\n连通1억\n남·여20명\n연봉6천\n연봉1억\n연봉5천\n연봉10명\n사동동\n팀레이커더\n여10명\"\n\n이 현수막은 태양광 전국 특판 모집을 알리는 내용과 함께, 영업소장, 연봉 정보, 그리고 전국 지사 모집에 대한 정보를 제공하고 있습니다."
+}

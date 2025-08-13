@@ -1,0 +1,11 @@
+{
+  "image_name": "0727",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0727.jpg",
+  "time": "2025-08-06 22:08:52",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"동계 골프훈련!\n그린골프연습장에서 함께 하십시오\n\n\"주부, 직장인(KT,LG)신규회원 우대\"\nT. 573-2170\"\n\n이 현수막은 동계에 맞춰 골프를 연습할 수 있는 곳을 소개하고 있으며, KT와 LG 신규 회원에게 우대를 제공한다는 내용입니다. 전화번호는 573-2170입니다."
+}

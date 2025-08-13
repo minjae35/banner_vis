@@ -1,0 +1,770 @@
+[
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240909_174707_15.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:29:32",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.09297844767570496,
+          0.3952975571155548,
+          0.9088736176490784,
+          0.6030932068824768
+        ],
+        "bbox_abs": [
+          95.20993041992188,
+          404.7846984863281,
+          930.6865844726562,
+          617.5674438476562
+        ],
+        "confidence": 0.9607151746749878,
+        "crop_path": "output/20240909_174707_15_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240910_075423_45.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:30:21",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0012684464454650879,
+          0.41759371757507324,
+          0.9999752640724182,
+          0.5820299386978149
+        ],
+        "bbox_abs": [
+          1.29888916015625,
+          427.615966796875,
+          1023.9746704101562,
+          595.9986572265625
+        ],
+        "confidence": 0.8798640370368958,
+        "crop_path": "output/20240910_075423_45_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_120105_1.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:31:14",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.3691704273223877,
+          0.9997484087944031,
+          0.6364462375640869
+        ],
+        "bbox_abs": [
+          0.0,
+          378.030517578125,
+          1023.7423706054688,
+          651.720947265625
+        ],
+        "confidence": 0.9364098906517029,
+        "crop_path": "output/20240911_120105_1_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_121828_18.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:31:56",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.16333341598510742,
+          0.3951961100101471,
+          0.8338583111763,
+          0.6077173948287964
+        ],
+        "bbox_abs": [
+          167.25341796875,
+          404.6808166503906,
+          853.8709106445312,
+          622.3026123046875
+        ],
+        "confidence": 0.9572448134422302,
+        "crop_path": "output/20240911_121828_18_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_124914_40.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:32:37",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.21685484051704407,
+          0.4470730125904083,
+          0.7816484570503235,
+          0.5530469417572021
+        ],
+        "bbox_abs": [
+          222.05935668945312,
+          457.8027648925781,
+          800.4080200195312,
+          566.320068359375
+        ],
+        "confidence": 0.9287436604499817,
+        "crop_path": "output/20240911_124914_40_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_131053_16.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:33:19",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.20533952116966248,
+          0.4246772527694702,
+          0.793131947517395,
+          0.5751004219055176
+        ],
+        "bbox_abs": [
+          210.26766967773438,
+          434.8695068359375,
+          812.1671142578125,
+          588.90283203125
+        ],
+        "confidence": 0.9663444757461548,
+        "crop_path": "output/20240911_131053_16_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_132132_16.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:34:05",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.06755757331848145,
+          0.39016905426979065,
+          0.9307543039321899,
+          0.6087024211883545
+        ],
+        "bbox_abs": [
+          69.178955078125,
+          399.5331115722656,
+          953.0924072265625,
+          623.311279296875
+        ],
+        "confidence": 0.9408020973205566,
+        "crop_path": "output/20240911_132132_16_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_135829_001_16.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:34:58",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.19498248398303986,
+          0.4245440661907196,
+          0.80474454164505,
+          0.5794097185134888
+        ],
+        "bbox_abs": [
+          199.6620635986328,
+          434.7331237792969,
+          824.0584106445312,
+          593.3155517578125
+        ],
+        "confidence": 0.9648514986038208,
+        "crop_path": "output/20240911_135829_001_16_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0643.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:35:47",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.41641226410865784,
+          0.9996923208236694,
+          0.5840098261833191
+        ],
+        "bbox_abs": [
+          0.0,
+          426.4061584472656,
+          1023.6849365234375,
+          598.0260620117188
+        ],
+        "confidence": 0.5360935926437378,
+        "crop_path": "output/0643_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0648.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:36:34",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.4217626452445984,
+          0.999595046043396,
+          0.5844501852989197
+        ],
+        "bbox_abs": [
+          0.0,
+          431.88494873046875,
+          1023.5853271484375,
+          598.4769897460938
+        ],
+        "confidence": 0.7797232866287231,
+        "crop_path": "output/0648_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:37:19",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.43536919355392456,
+          0.9996433258056641,
+          0.5626863837242126
+        ],
+        "bbox_abs": [
+          0.0,
+          445.81805419921875,
+          1023.634765625,
+          576.1908569335938
+        ],
+        "confidence": 0.7868033647537231,
+        "crop_path": "output/0661_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:37:56",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.41325581073760986,
+          0.999305248260498,
+          0.5743559002876282
+        ],
+        "bbox_abs": [
+          0.0,
+          423.1739501953125,
+          1023.28857421875,
+          588.1404418945312
+        ],
+        "confidence": 0.7487572431564331,
+        "crop_path": "output/0720_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:38:35",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.39165568351745605,
+          0.9998079538345337,
+          0.6081085801124573
+        ],
+        "bbox_abs": [
+          0.0,
+          401.055419921875,
+          1023.8033447265625,
+          622.7031860351562
+        ],
+        "confidence": 0.7289570569992065,
+        "crop_path": "output/0726_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0727.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:39:19",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.000270843505859375,
+          0.3278019428253174,
+          0.9992376565933228,
+          0.6730506420135498
+        ],
+        "bbox_abs": [
+          0.27734375,
+          335.669189453125,
+          1023.2193603515625,
+          689.203857421875
+        ],
+        "confidence": 0.7964685559272766,
+        "crop_path": "output/0727_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0740.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:39:57",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.43742042779922485,
+          0.9996488690376282,
+          0.5793433785438538
+        ],
+        "bbox_abs": [
+          0.0,
+          447.91851806640625,
+          1023.6404418945312,
+          593.2476196289062
+        ],
+        "confidence": 0.6158599257469177,
+        "crop_path": "output/0740_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0742.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:40:37",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0,
+          0.4321628510951996,
+          0.9998495578765869,
+          0.568655252456665
+        ],
+        "bbox_abs": [
+          0.0,
+          442.5347595214844,
+          1023.845947265625,
+          582.302978515625
+        ],
+        "confidence": 0.4809988737106323,
+        "crop_path": "output/0742_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:41:30",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0588473379611969,
+          0.35015442967414856,
+          0.8624279499053955,
+          0.6489967107772827
+        ],
+        "bbox_abs": [
+          60.259674072265625,
+          358.5581359863281,
+          883.126220703125,
+          664.5726318359375
+        ],
+        "confidence": 0.6335159540176392,
+        "crop_path": "output/C04_240929_Gt_20210130_124631_9_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:42:20",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.0869244933128357,
+          0.34870103001594543,
+          0.9079201221466064,
+          0.6796339154243469
+        ],
+        "bbox_abs": [
+          89.01068115234375,
+          357.0698547363281,
+          929.710205078125,
+          695.9451293945312
+        ],
+        "confidence": 0.8621346950531006,
+        "crop_path": "output/D05_240929_8K_IMG_5533_13_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:43:13",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.09965857863426208,
+          0.3533543646335602,
+          0.9191714525222778,
+          0.6575453877449036
+        ],
+        "bbox_abs": [
+          102.05038452148438,
+          361.8348693847656,
+          941.2315673828125,
+          673.3264770507812
+        ],
+        "confidence": 0.6492940187454224,
+        "crop_path": "output/D05_240929_AM_IMG_7629_12_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:44:00",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.09902361035346985,
+          0.3643774390220642,
+          0.9061391353607178,
+          0.6529750227928162
+        ],
+        "bbox_abs": [
+          101.40017700195312,
+          373.12249755859375,
+          927.886474609375,
+          668.6464233398438
+        ],
+        "confidence": 0.7603602409362793,
+        "crop_path": "output/D05_240929_Wx_IMG_4882_9_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:44:53",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.08191803097724915,
+          0.355646550655365,
+          0.9023239612579346,
+          0.6493851542472839
+        ],
+        "bbox_abs": [
+          83.88406372070312,
+          364.18206787109375,
+          923.979736328125,
+          664.9703979492188
+        ],
+        "confidence": 0.5682002902030945,
+        "crop_path": "output/D05_240929_aj_IMG_5781_17_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:45:44",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.03393194079399109,
+          0.35070157051086426,
+          0.7845848798751831,
+          0.6499919891357422
+        ],
+        "bbox_abs": [
+          34.746307373046875,
+          359.118408203125,
+          803.4149169921875,
+          665.591796875
+        ],
+        "confidence": 0.9387321472167969,
+        "crop_path": "output/D05_240929_aq_IMG_0268_13_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:46:37",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.1116470992565155,
+          0.3568454086780548,
+          0.9303968548774719,
+          0.6514827013015747
+        ],
+        "bbox_abs": [
+          114.32662963867188,
+          365.4096984863281,
+          952.7263793945312,
+          667.1182861328125
+        ],
+        "confidence": 0.9289270639419556,
+        "crop_path": "output/D05_240929_bI_IMG_9552_7_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  },
+  {
+    "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "width": 672,
+    "height": 672,
+    "time": "2025-08-06 22:47:32",
+    "annotation": [
+      {
+        "bbox_normalized": [
+          0.09426993131637573,
+          0.34535226225852966,
+          0.9097033143043518,
+          0.6529386043548584
+        ],
+        "bbox_abs": [
+          96.53240966796875,
+          353.6407165527344,
+          931.5361938476562,
+          668.609130859375
+        ],
+        "confidence": 0.8659090995788574,
+        "crop_path": "output/D05_240929_bl_IMG_5632_9_crop_1.jpg"
+      }
+    ],
+    "banner_annotation": [],
+    "summary": {
+      "0": {
+        "ori_txt": "",
+        "ban_cls": "",
+        "reason": ""
+      }
+    }
+  }
+]

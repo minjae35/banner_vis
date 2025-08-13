@@ -1,0 +1,32 @@
+{
+  "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+  "width": 672,
+  "height": 672,
+  "time": "2025-08-06 22:13:15",
+  "annotation": [
+    {
+      "bbox_normalized": [
+        0.0,
+        0.41325581073760986,
+        0.999305248260498,
+        0.5743559002876282
+      ],
+      "bbox_abs": [
+        0.0,
+        423.1739501953125,
+        1023.28857421875,
+        588.1404418945312
+      ],
+      "confidence": 0.7487572431564331,
+      "crop_path": "output/0720_crop_1.jpg"
+    }
+  ],
+  "banner_annotation": [],
+  "summary": {
+    "0": {
+      "ori_txt": "Show Me The Results, Better Than Process / 전략영업팀",
+      "ban_cls": "민간 현수막",
+      "reason": "이 현수막은 \"Show Me The Results, Better Than Process\"라는 영어 문구와 함께 \"전략영업팀\"이라는 한국어 텍스트를 포함하고 있습니다. 이는 특정 회사나 조직의 영업팀을 홍보하거나 동기를 부여하는 문구로 보입니다. 정당이나 공공기관과 관련된 내용이 없고, 상업적 성격의 문구가 사용되었기 때문에 민간 현수막으로 분류됩니다. 특히 '영업팀'이라는 표현은 기업 내부 조직을 지칭하는 것으로, 명확히 민간 영역에 속합니다."
+    }
+  }
+}

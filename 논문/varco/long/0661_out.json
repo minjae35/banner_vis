@@ -1,0 +1,32 @@
+{
+  "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+  "width": 672,
+  "height": 672,
+  "time": "2025-08-06 22:12:38",
+  "annotation": [
+    {
+      "bbox_normalized": [
+        0.0,
+        0.43536919355392456,
+        0.9996433258056641,
+        0.5626863837242126
+      ],
+      "bbox_abs": [
+        0.0,
+        445.81805419921875,
+        1023.634765625,
+        576.1908569335938
+      ],
+      "confidence": 0.7868033647537231,
+      "crop_path": "output/0661_crop_1.jpg"
+    }
+  ],
+  "banner_annotation": [],
+  "summary": {
+    "0": {
+      "ori_txt": "Party party Happy event 파티얼드 분류 결과: 민간 현수막",
+      "ban_cls": "민간 현수막",
+      "reason": "이 현수막은 \"Happy event\"라는 문구와 함께 \"파티얼드\"라는 상호명이 포함되어 있습니다. \"파티얼드\"는 학원이나 교육 관련 시설로 보이며, \"Party party\"라는 문구는 이벤트나 프로모션을 홍보하는 것으로 보입니다. 이러한 내용은 상업적 목적의 광고에 해당하므로 민간 현수막으로 분류됩니다. 정당이나 공공기관과 관련된 정보가 전혀 없어 다른 두 가지 분류에 맞지 않습니다."
+    }
+  }
+}

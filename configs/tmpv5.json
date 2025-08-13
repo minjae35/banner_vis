@@ -1,0 +1,27 @@
+{
+    "save_root_path": "./output",
+    "det": {
+        "model_path": "/home/intern/banner_vis/checkpoints/DET3.pth",
+        "gpu_id": 0
+    },
+    "sam": {
+        "model_path": "/home/intern/banner_vis/checkpoints/SEG.ckpt",
+        "gpu_id": 0
+    },
+    "std": {
+        "model_path": "/home/intern/banner_vis/checkpoints/STD.pth",
+        "gpu_id": 0
+    },
+    "str": {
+        "model_path": "/home/intern/banner_vis/checkpoints/STR.ckpt",
+        "gpu_id": 0
+    },
+    "ctr": {
+        "model_path": "/home/intern/banner_vis/checkpoints/STD_contour.pth",
+        "gpu_id": 0
+    },
+    "ref_cls": {
+        "model_path": "/home/intern/banner_vis/checkpoints/ref_cls.ckpt",
+        "gpu_id": 0
+    }
+}

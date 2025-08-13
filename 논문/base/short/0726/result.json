@@ -1,0 +1,11 @@
+{
+  "image_name": "0726",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+  "time": "2025-08-06 22:08:46",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "이 현수막의 텍스트는 다음과 같습니다:\n\n\"가마솥 군밥\n전통 방식그대로 가마솥군밥\"\n\n이 현수막은 \"가마솥 군밥\"이라는 음식을 판매하는 곳을 알리는 것으로 보입니다. \"전통 방식그대로 가마솥군밥\"은 이 음식이 전통적인 방식으로 만든 것임을 강조하고 있습니다."
+}

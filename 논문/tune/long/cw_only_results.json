@@ -1,0 +1,218 @@
+[
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_135829_001_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_135829_001_16.jpg",
+    "time": "2025-08-06 21:09:39",
+    "vlm_raw": "현수막 내용 :\n배낭예초기 (30대 한정) 반값세일\n사용량: 50비럴 → 15만원\n배낭예초기 초기 (30대 한정) 반값세일\n문의 본사: 기국농기계(주), 041-751-0401, 금성면 금성공단로 19-18\n\n분류 결과: 민간 현수막\n판단 이유: 문구에서 특정 상품(배낭예초기)과 할인 조건(반값세일)을 홍보하는 내용이 포함되어 있어 상업적 목적을 가진 민간 단체/개인의 홍보로 보임."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240909_174707_15.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240909_174707_15.jpg",
+    "time": "2025-08-06 21:09:45",
+    "vlm_raw": "현수막 내용 :\n\"보름달처럼 풍성한 한가위 보내세요\"\n\"풍요로운 추석되세요\"\n\"민주당 장구의원 강정수\"\n\"가수팀면접자-2기(도전용)\"\n\"민주당 서구의원\"\n\n분류 결과: 민간 현수막\n판단 이유: 정당명, 후보자, 선거 관련 문구가 포함되어 있지 않음. \"가수팀면접자-2기(도전용)\"과 같은 문구는 특정 단체나 개인의 홍보로 보이며, \"민주당 서구의원 강정수\"는 특정 후보자로 보임. 따라서 민간 현수막으로 분류될 가능성이 높음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_132132_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_132132_16.jpg",
+    "time": "2025-08-06 21:10:02",
+    "vlm_raw": "현수막 내용 :\n\"2024 인문웨이브\"\n\"마음에 불어오는 시원한 바람 인문 웨이브\"\n\"울산에서 다채로운 인문 웨이브를 만나세요.\"\n\"울산대학교\"\n\"울산대학\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교\"\n\"울산대학교"
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_124914_40.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_124914_40.jpg",
+    "time": "2025-08-06 21:10:08",
+    "vlm_raw": "현수막 내용 :\n\"넉넉하고 웃음이 끓는다 추석 되세요\"\n\"금산인상농협 조합장 강상묵\"\n\n분류 결과: 민간 현수막\n판단 이유: \"넉넉하고 웃음이 끓는다 추석 되세요\"와 \"금산인상농협 조합장 강상묵\"이라는 문구는 특정 개인이나 단체의 홍보 또는 행사 안내로 보이며, 정당명, 후보자, 선거 관련 문구가 포함되지 않음. 또한, 상업 광고나 학원/상점/개인 목적 문구도 포함되지 않음. 따라서 민간 현수막으로 분류될 가능성이 높음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_121828_18.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_121828_18.jpg",
+    "time": "2025-08-06 21:10:12",
+    "vlm_raw": "현수막 내용 : \"일단 멈춤 아이 먼저 보내주세요.\" (행정안전부), \"아이 먼저 운전\" (금산군)\n\n분류 결과: 공공 현수막\n\n판단 이유: \"행정안전부\"와 \"금산군\"은 정부 또는 지자체와 관련된 명칭으로, \"일단 멈춤 아이 먼저 보내주세요.\"라는 문구는 교통 안전과 관련된 공익적 내용을 포함하고 있음. 따라서 공공 현수막으로 분류될 가능성이 높음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_131053_16.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_131053_16.jpg",
+    "time": "2025-08-06 21:10:16",
+    "vlm_raw": "현수막 내용 :\n\"쇼핑몰 발 sóng이 활성화됩니다\"\n\"보름달처럼 넉넉한 후식 보내세요\"\n\n분류 결과: 민간 현수막\n판단 이유: \"쇼핑몰 발 sóng이 활성화됩니다\"와 \"보름달처럼 넉넉한 후식 보내세요\"는 상업적 홍보와 관련된 문구로 보이며, 특정 기업이나 상점의 홍보일 가능성이 높습니다. 따라서 민간 현수막으로 분류될 수 있습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240911_120105_1.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_120105_1.jpg",
+    "time": "2025-08-06 21:10:20",
+    "vlm_raw": "현수막 내용 :\n\"风雨 青山 노래 후맛진 구주\"\n\"힘을내요! 소상공인, 함께가요! 전통시장\"\n\"울산중구 상권을 이용합시다\"\n\"울산광역시 중구\"\n\n분류 결과: 공공 현수막\n판단 이유: \"울산광역시 중구\"라는 지자체 명칭이 포함되어 있으며, 공익적 내용(상권 이용 안내)을 포함하고 있음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "crop",
+    "image_name": "20240910_075423_45.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240910_075423_45.jpg",
+    "time": "2025-08-06 21:10:26",
+    "vlm_raw": "현수막 내용 :\n문창교~부so오거리 도로정비 부분통제\n8월 31일(토) ~ 10월 20일(일)\n통행에 불편을 드려 대단히 죄송합니다.\n지문사: (054) 356-8782\n분청장: 대전광역시 건설관리본부(054) 370-9881\n\n분류 결과: 공공 현수막\n판단 이유: 정부, 지자체(대전광역시) 명칭 및 공익적 내용(도로정비 부분통제, 통행 불편 안내)가 포함되어 있음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0643.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0643.jpg",
+    "time": "2025-08-06 21:10:34",
+    "vlm_raw": "현수막 내용 :\n\"PLANT IT 2004 CONFERENCE\"\n\"플랜트 엔지니어링 소프트웨어 중심으로\"\n\"주최: 한국플랜트정보기술협회, 한국엔지니어링진흥협회, 성균관대신일안전성평가연구센터, 플랜트엔지니어링산업인력양성센터\"\n\"주관: 월간 DigiGraphics\"\n\"후원: 건설교통부, 과학기술부, 정보통신부, 한국캐드연합회\"\n\"스пон서: 반들리시스템즈코리아\"\n\n분류 결과: 민간 현수막\n판단 이유: 현수막 내용은 특정 기관(한국플랜트정보기술협회, 한국엔지니어링진흥협회 등)과 관련된 행사(PLANT IT 2004 CONFERENCE)를 홍보하는 것으로 보이며, 이는 상업적 목적의 홍보로 해석될 수 있다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0648.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0648.jpg",
+    "time": "2025-08-06 21:10:39",
+    "vlm_raw": "현수막 내용 : 〈성북종합레포ट타운〉제2회 유아체능단 영어발표회 성북구청·성북구도시관리공단\n\n분류 결과: 공공 현수막\n\n판단 이유: \n\"성북구청\"과 \"성북구도시관리공단\"이라는 공공기관 명칭이 포함되어 있으며, 이는 공익적 내용을 포함하고 있는 것으로 보입니다. 또한, \"제2회 유아체능단 영어발표회\"라는 문구는 특정 행사나 프로그램을 홍보하는 내용으로 보이며, 이는 공공기관의 행사 안내와 관련된 것으로 판단됩니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0661.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+    "time": "2025-08-06 21:10:44",
+    "vlm_raw": "현수막 내용 : \"Party Party Happy Event\" (파티 파티 행복 이벤트), \"zion party, circus mimos, live dance, event, service, sydney, arizona\", \"par willard\"\n\n분류 결과: 민간 현수막\n\n판단 이유: \"파티 파티 행복 이벤트\"와 같은 문구는 특정 상점이나 서비스를 홍보하는 것으로 보이며, \"zion party, circus mimos, live dance, event, service, sydney, arizona\"와 같은 문구는 특정 장소나 서비스를 언급하고 있어 민간 단체나 개인의 홍보로 보임."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0742.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0742.jpg",
+    "time": "2025-08-06 21:10:48",
+    "vlm_raw": "현수막 내용 : 경한·일국제 아이키도 연무대회 축\n분류 결과: 민간 현수막\n판단 이유: \"경한·일국제 아이키도 연무대회\"는 특정 행사나 대회를 홍보하는 내용으로 보이며, 이는 일반적으로 민간 단체나 개인이 주최하거나 참여하는 행사일 가능성이 높습니다. 따라서 민간 현수막으로 분류될 수 있습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0726.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+    "time": "2025-08-06 21:10:53",
+    "vlm_raw": "현수막 내용 : \"가마솥 군밤\" 전통 방식 그대로 가마솥군밤\n\n분류 결과: 민간 현수막\n판단 이유: \"가마솥 군밤\"이라는 문구는 특정 상점이나 상업적 행사와 관련된 홍보 문구로 보이며, 정당명, 후보자, 선거 관련 문구가 포함되지 않음. 또한, 정부, 지자체, 공공기관 명칭 또는 정책, 단속, 행정 안내 등 공익적 내용도 포함되지 않음. 따라서 민간 현수막으로 분류될 가능성이 높음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0740.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0740.jpg",
+    "time": "2025-08-06 21:10:56",
+    "vlm_raw": "현수막 내용 : \"2005년도 한국주택금융공사 시무식\" 및 \"2005년 1월 3일 (월)\"\n\n분류 결과: 공공 현수막\n\n판단 이유: \n문구에서 \"한국주택금융공사\"라는 공공기관 명칭이 포함되어 있으며, \"시무식\"이라는 표현은 공익적 내용으로 보입니다. 따라서 공공 현수막으로 분류될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0720.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0720.jpg",
+    "time": "2025-08-06 21:11:02",
+    "vlm_raw": "현수막 내용 :\n\"Show Me The Results, Better Than Process\"\n\"전략영업팀\"\n\n분류 결과: 민간 현수막\n\n판단 이유:\n\"Show Me The Results, Better Than Process\"라는 문구는 특정 단체나 개인이 성과를 보여주고 더 나은 결과를 얻는 것을 강조하는 표현으로 보입니다.\n\"전략영업팀\"이라는 문구는 특정 업무나 프로젝트와 관련된 것으로 보이며, 이는 일반적으로 민간 단체나 개인의 홍보 또는 행사 안내와 관련될 가능성이 높습니다. \n\n따라서, 이 현수막은 민간 현수막으로 분류될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "flat",
+    "image_name": "0727.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/flat/0727.jpg",
+    "time": "2025-08-06 21:11:09",
+    "vlm_raw": "현수막 내용 :\n동계 골프훈련! 그린골프연습장에서 함께 하십시오\n\"주부, 직장인(KT,LG)신규회원 우대\"\nT. 573-2170\n\n분류 결과:\n민간 현수막\n\n판단 이유:\n\"동계 골프훈련!\"과 \"그린골프연습장에서 함께 하십시오\"라는 문구는 특정 골프 연습장에서의 행사 안내로 보이며, \"주부, 직장인(KT,LG)신규회원 우대\"와 \"T. 573-2170\"은 특정 기업이나 개인의 홍보 또는 연락처로 보입니다.\n이러한 문구들은 상업적 목적을 가진 민간 단체나 개인의 홍보와 관련된 것으로 판단됩니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_AM_IMG_7629_12.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+    "time": "2025-08-06 21:11:15",
+    "vlm_raw": "현수막 내용 :\n\"위치감\"\n\"송도 1공구아파트 및 단지내상가\"\n\"포스코 자사고 앞 파격 조건 분양\"\n\"032-870-6940\"\n\n분류 결과: 민간 현수막\n판단 이유: \"포스코 자사고 앞 파격 조건 분양\"이라는 문구는 특정 상업적 목적을 나타내며, \"032-870-6940\"은 연락처로 보입니다. 이러한 요소들은 민간 단체나 개인의 홍보 또는 행사 안내와 관련된 것으로 보입니다. \n\n따라서, 이 현수막은 민간 현수막으로 분류될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_bl_IMG_5632_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+    "time": "2025-08-06 21:11:23",
+    "vlm_raw": "현수막 내용 :\n\"1,320세대 대단지 신규아파트\"\n\"시민공원역 초역세권\"\n\"032) 860-2401\"\n\n분류 결과: 민간 현수막\n판단 이유: \"대단지 신규아파트\"와 \"시민공원역 초역세권\"이라는 문구는 특정 상업적 목적을 나타내는 것으로 보이며, \"032) 860-2401\"은 연락처로 보입니다. 이러한 요소들은 일반적으로 민간 단체나 개인이 홍보 목적으로 사용하는 현수막의 특징과 일치합니다. \n\n추가로, \"1,320세대\"라는 문구는 특정 상업적 목적으로 사용될 가능성이 높으며, \"시민공원역 초역세권\"이라는 문구는 지역적 위치를 강조하는 것으로 보입니다. 이는 상업적 홍보 목적으로 사용될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_Wx_IMG_4882_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+    "time": "2025-08-06 21:11:30",
+    "vlm_raw": "현수막 내용 : \n\"가좌역 대단지 아파트\"\n\"032-262-1209\"\n\"발코니 2억~3억\"\n\"청약동\"\n\n분류 결과: 민간 현수막\n판단 이유: \n문구에서 \"가좌역 대단지 아파트\"와 \"032-262-1209\"는 특정 아파트 단지와 연락처를 나타내며, \"발코니 2억~3억\" 및 \"청약동\"은 주택 분양과 관련된 내용으로 보입니다. 이러한 문구는 상업 광고와 관련된 것으로 보이며, 정당명, 후보자, 선거 관련 문구, 정부나 지자체 명칭, 공익적 내용 등 공공 현수막의 특징과는 다르습니다. 따라서 민간 현수막으로 분류될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_bI_IMG_9552_7.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bI_IMG_9552_7.jpg",
+    "time": "2025-08-06 21:11:36",
+    "vlm_raw": "현수막 내용 :\n\"예방경찰청 징정\"\n\"031-496-0022\"\n\"보트/요트 시험면제 면허취득\"\n\n분류 결과: 민간 현수막\n\n판단 이유:\n\"예방경찰청 징정\"과 \"031-496-0022\"는 특정 기관이나 서비스와 관련된 문구로 보임.\n\"보트/요트 시험면제 면허취득\"은 특정 교육 또는 서비스를 홍보하는 문구로 보임.\n이러한 문구들은 상업적 목적을 가진 민간 단체나 개인의 홍보와 관련이 있을 가능성이 높음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_aj_IMG_5781_17.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aj_IMG_5781_17.jpg",
+    "time": "2025-08-06 21:11:47",
+    "vlm_raw": "현수막 내용 :\n\"해외음악 축제 한가당\"\n\"5월 27일 (토) 오후 4:00~6:00\"\n\"함안군,고모곡원\"\n\"주최: 논현고산동 주민자치회\"\n\"마라을 보이즈 / 박강수 / 백영규 / 박호명 / 고야라\"\n\n분류 결과: 민간 현수막\n판단 이유: \n현수막에서 \"해외음악 축제 한가당\"이라는 문구는 특정 행사나 축제를 홍보하는 내용으로 보이며, \"5월 27일 (토) 오후 4:00~6:00\"과 같은 시간 정보는 행사 안내와 관련된 것으로 보입니다.\n\"함안군,고모곡원\"은 장소 정보로 보이며, \"주최: 논현고산동 주민자치회\"는 특정 단체(주민자치회)의 행사 홍보로 보입니다.\n\"마라을 보이즈 / 박강수 / 백영규 / 박호명 / 고야라\"는 공연자 이름으로 보이며, 이는 상업적 또는 개인적인 목적의 홍보로 보입니다.\n\n따라서 이 현수막은 민간 단체(주민자치회)가 주최하는 행사(축제)를 홍보하는 민간 현수막으로 분류될 가능성이 높습니다."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "C04_240929_Gt_20210130_124631_9.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/C04_240929_Gt_20210130_124631_9.jpg",
+    "time": "2025-08-06 21:11:55",
+    "vlm_raw": "현수막 내용 :\n태양광 전국특판모집\n010-4019-4333\n전국시사모집 1588-3174\n영업산참 연봉1억 남·여20명\n텔레비jen더 연봉5천 010명\n시동금 연봉1억 10명\n\n분류 결과:\n민간 현수막\n\n판단 이유:\n\"태양광 전국특판모집\", \"전국시사모집\", \"영업산참 연봉1억 남·여20명\", \"텔레비jen더 연봉5천 010명\", \"시동금 연봉1억 10명\" 등의 문구는 특정 상업적 목적으로 사용된 홍보 내용으로 보입니다.\n정당명, 후보자, 선거 관련 문구가 포함되지 않음.\n정부, 지자체, 공공기관 명칭 또는 정책, 단속, 행정 안내 등 공익적 내용도 포함되지 않음."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_8K_IMG_5533_13.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_8K_IMG_5533_13.jpg",
+    "time": "2025-08-06 21:12:04",
+    "vlm_raw": "현수막 내용 :\n한화 포레나 인천구월\n무순위 청약 8월 29일(월)\n1600.1211\n\n판단 결과:\n- 분류: 민간 현수막\n- 판단 이유: \"한화 포레나\"와 같은 브랜드 이름과 \"무순위 청약\" 및 연락처 정보가 포함되어 있어 상업적 홍보로 보임. \n\n(또는)\n- 분류: 공공 현수막\n- 판단 이유: \"한화 포레나 인천구월\"이라는 주소와 관련된 정보가 포함되어 있어 공익적 내용으로 보임. \n\n(또는)\n- 분류: 민간 현수막\n- 판단 이유: \"무순위 청약\" 및 연락처 정보가 포함되어 있어 상업적 홍보로 보임. \n\n(또는)\n- 분류: 공공 현수막\n- 판단 이유: \"한화 포레나 인천구월\"이라는 주소와 관련된 정보가 포함되어 있어 공익적 내용으로 보임."
+  },
+  {
+    "checkpoint_name": "cw_only",
+    "checkpoint_path": "/home/intern/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-finetune/checkpoints_cw_only_experiment_gpu23/checkpoint-10500",
+    "image_category": "wrap",
+    "image_name": "D05_240929_aq_IMG_0268_13.jpg",
+    "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+    "time": "2025-08-06 21:12:13",
+    "vlm_raw": "현수막 내용 :\n\"푸르지오 즉시입주 가능 민간임대 아파트\"\n\"임대료 파격할인!!\"\n\"032)290.4778\"\n\"2월 특별 공급분 계약중\"\n\n분류 결과: 민간 현수막\n판단 이유: \n현수막에서 \"푸르지오 즉시입주 가능 민간임대 아파트\", \"임대료 파격할인!!\", \"032)290.4778\", \"2월 특별 공급분 계약중\" 등의 문구는 특정 상업적 목적을 위해 사용된 홍보 내용으로 보입니다. 또한, 전화번호와 같은 연락처 정보가 포함되어 있어 민간 단체/개인의 홍보 현수막으로 분류될 수 있습니다. \n\n추가적으로, \"032)290.4778\"은 전화번호로 보이며, 이는 특정 상업적 목적을 위한 연락처로 사용될 가능성이 높습니다. 따라서, 이 현수막은 민간 현수막으로 분류될 가능성이 높습니다."
+  }
+]

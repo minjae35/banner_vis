@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_Wx_IMG_4882_9",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+  "time": "2025-08-06 22:09:30",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"시모스티밀스\n대단지 아파트\n발코니\n2억~3\n032-262-1209\n청약동\"\n\n이 현수막은 아파트의 정보를 안내하고, 청약 접수 전화번호를 제공합니다."
+}

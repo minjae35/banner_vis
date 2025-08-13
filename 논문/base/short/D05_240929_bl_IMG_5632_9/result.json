@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_bl_IMG_5632_9",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_bl_IMG_5632_9.jpg",
+  "time": "2025-08-06 22:09:49",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "1,320세대 대단지 신규아파트 시민공원역 초역세권 O32) 86O-24O1"
+}

@@ -1,0 +1,11 @@
+{
+  "image_name": "0661",
+  "image_path": "../data/experiments/validation_test/datasets/cot/1. test_image/flat/0661.jpg",
+  "time": "2025-08-06 20:35:43",
+  "summary": {
+    "ori_txt": "Party Party, Happy Event, 파티 월드, 졸업파티, 크리스마스, 러브데이, 웨딩, 생일, 선데이, 어린이날",
+    "ban_cls": "민간 현수막",
+    "reason": "현수막에는 'Party Party', 'Happy Event', '파티 월드'와 같은 상업 광고와 관련된 문구가 포함되어 있으며, 정부나 지자체와 관련된 공익적 내용이나 정책은 없음. 따라서 민간 현수막으로 분류됩니다."
+  },
+  "vlm_raw": "- 현수막 내용 : Party Party, Happy Event, 파티 월드, 졸업파티, 크리스마스, 러브데이, 웨딩, 생일, 선데이, 어린이날\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 'Party Party', 'Happy Event', '파티 월드'와 같은 상업 광고와 관련된 문구가 포함되어 있으며, 정부나 지자체와 관련된 공익적 내용이나 정책은 없음. 따라서 민간 현수막으로 분류됩니다."
+}

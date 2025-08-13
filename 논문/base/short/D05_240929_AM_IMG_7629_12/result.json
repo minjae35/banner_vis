@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_AM_IMG_7629_12",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_AM_IMG_7629_12.jpg",
+  "time": "2025-08-06 22:09:26",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"위치감 송도 1공구아파트 및 단지내상가 포스코 자사고 앞 파격 조건 분양 032-870-6940\"\n\n이 현수막은 송도 1공구아파트와 단지 내 상가에 위치한 포스코 자사고 앞에서 파격 조건으로 분양하고 있는 것을 알 수 있습니다."
+}

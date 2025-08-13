@@ -1,0 +1,11 @@
+{
+  "image_name": "20240911_131053_16",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/crop/20240911_131053_16.jpg",
+  "time": "2025-08-13 15:03:25",
+  "summary": {
+    "ori_txt": "보름달처럼 넉넉한 후박입니다.",
+    "ban_cls": "민간 현수막",
+    "reason": "현수막의 텍스트는 상업 광고와 관련된 문구로, 정당, 공공기관, 지자체와 관련된 내용이 아닌 것으로 보입니다."
+  },
+  "vlm_raw": "- 현수막 내용 : 보름달처럼 넉넉한 후박입니다.\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막의 텍스트는 상업 광고와 관련된 문구로, 정당, 공공기관, 지자체와 관련된 내용이 아닌 것으로 보입니다."
+}

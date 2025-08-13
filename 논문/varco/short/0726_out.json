@@ -1,0 +1,32 @@
+{
+  "image_name": "data/experiments/validation_test/datasets/cot/1. test_image/flat/0726.jpg",
+  "width": 672,
+  "height": 672,
+  "time": "2025-08-06 22:38:35",
+  "annotation": [
+    {
+      "bbox_normalized": [
+        0.0,
+        0.39165568351745605,
+        0.9998079538345337,
+        0.6081085801124573
+      ],
+      "bbox_abs": [
+        0.0,
+        401.055419921875,
+        1023.8033447265625,
+        622.7031860351562
+      ],
+      "confidence": 0.7289570569992065,
+      "crop_path": "output/0726_crop_1.jpg"
+    }
+  ],
+  "banner_annotation": [],
+  "summary": {
+    "0": {
+      "ori_txt": "",
+      "ban_cls": "",
+      "reason": ""
+    }
+  }
+}

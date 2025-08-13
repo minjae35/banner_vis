@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_aq_IMG_0268_13",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/wrap/D05_240929_aq_IMG_0268_13.jpg",
+  "time": "2025-08-06 22:09:41",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"푸르자오 즉시입주 가능 민간임대 아파트 PRUCIO\n\n임대료 파격할인!!!\n2월 특별 공급분 겨약중 032)290.4778\"\n\n이 현수막은 민간임대 아파트의 입주를 유도하고, 임대료를 할인하여 인센티브를 제공하는 내용입니다. 또한, 2월에 특별 공급분이 제공될 예정이라고 합니다."
+}

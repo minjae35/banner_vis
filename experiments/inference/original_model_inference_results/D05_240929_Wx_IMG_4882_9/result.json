@@ -1,0 +1,11 @@
+{
+  "image_name": "D05_240929_Wx_IMG_4882_9",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/test_image/wrap/D05_240929_Wx_IMG_4882_9.jpg",
+  "time": "2025-08-13 15:02:18",
+  "summary": {
+    "ori_txt": "가좌역 대단지 아파트 발코니 2억~3 청약동 032-262-1209",
+    "ban_cls": "민간 현수막",
+    "reason": "현수막에는 아파트와 청약 등 상업적인 광고 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+  },
+  "vlm_raw": "- 현수막 내용 : 가좌역 대단지 아파트 발코니 2억~3 청약동 032-262-1209\n- 분류 결과: 민간 현수막\n- 판단 이유: 현수막에는 아파트와 청약 등 상업적인 광고 내용이 포함되어 있어 민간 현수막으로 분류됩니다."
+}

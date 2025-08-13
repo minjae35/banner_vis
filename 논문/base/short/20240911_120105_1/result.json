@@ -1,0 +1,11 @@
+{
+  "image_name": "20240911_120105_1",
+  "image_path": "/home/intern/banner_vis/data/experiments/validation_test/datasets/cot/1. test_image/crop/20240911_120105_1.jpg",
+  "time": "2025-08-06 22:08:02",
+  "summary": {
+    "ori_txt": "",
+    "ban_cls": "",
+    "reason": ""
+  },
+  "vlm_raw": "현수막의 텍스트는 다음과 같습니다:\n\n\"울산중구상권을 이용합시다\"\n\n이 현수막은 울산광역시 중구의 상권을 홍보하고 있는 것으로 보입니다."
+}
