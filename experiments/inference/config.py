@@ -29,6 +29,11 @@ CHECKPOINT_BASE_PATH = "/home/intern2/banner_vis/qwen-tuning/Qwen2.5-VL/qwen-vl-
 
 # 체크포인트 설정
 CHECKPOINT_CONFIGS = {
+    "bal_equal_linebreak_full": {
+        "path": os.path.join(CHECKPOINT_BASE_PATH, "bal_equal_linebreak_full/checkpoint-2640"),
+        "gpu_id": "0,1,2,3",
+        "description": "Bal Equal Linebreak Full 체크포인트 (2640) - GPU 0,1,2,3 사용"
+    },
     "bal_equal": {
         "path": os.path.join(CHECKPOINT_BASE_PATH, "bal_equal/experiment/checkpoints_bal_equal_experiment_gpu01/checkpoint-10500"),
         "gpu_id": 0,
@@ -68,7 +73,7 @@ CHECKPOINT_CONFIGS = {
         "path": os.path.join(CHECKPOINT_BASE_PATH, "no_warp/simple_experiment/checkpoints_no_warp_simple_experiment_gpu45/checkpoint-10500"),
         "gpu_id": 3,
         "description": "No Warp Simple 체크포인트"
-    }
+    },
 }
 
 # 프롬프트 템플릿

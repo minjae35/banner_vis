@@ -37,15 +37,39 @@ def load_model_and_processor(checkpoint_path, device_id=0):
     print(f"프로세서 로딩 중... (PRETRAINED_PATH: {pretrained_path})")
     processor = AutoProcessor.from_pretrained(pretrained_path)
     
-    device = torch.device(f"cuda:{device_id}" if torch.cuda.is_available() else "cpu")
-    
-    print(f"모델 로딩 중... (checkpoint: {checkpoint_path})")
-    model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-        checkpoint_path,
-        torch_dtype=torch.bfloat16 if torch.cuda.is_bf16_supported() else "auto",
-        trust_remote_code=True,
-        low_cpu_mem_usage=True,
-    ).to(device).eval()
+    # GPU ID가 문자열인 경우 (예: "0,1,2,3") DataParallel 사용
+    if isinstance(device_id, str) and "," in device_id:
+        gpu_ids = [int(x.strip()) for x in device_id.split(",")]
+        print(f"GPU {gpu_ids} 사용 (DataParallel)")
+        
+        # 메인 디바이스 설정
+        device = torch.device(f"cuda:{gpu_ids[0]}" if torch.cuda.is_available() else "cpu")
+        
+        print(f"모델 로딩 중... (checkpoint: {checkpoint_path})")
+        model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            checkpoint_path,
+            torch_dtype=torch.bfloat16 if torch.cuda.is_bf16_supported() else "auto",
+            trust_remote_code=True,
+            low_cpu_mem_usage=True,
+        ).to(device)
+        
+        # DataParallel로 멀티 GPU 설정
+        if len(gpu_ids) > 1 and torch.cuda.device_count() > 1:
+            model = torch.nn.DataParallel(model, device_ids=gpu_ids)
+            print(f"DataParallel 활성화: GPU {gpu_ids}")
+        
+        model.eval()
+    else:
+        # 단일 GPU 사용
+        device = torch.device(f"cuda:{device_id}" if torch.cuda.is_available() else "cpu")
+        
+        print(f"모델 로딩 중... (checkpoint: {checkpoint_path})")
+        model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            checkpoint_path,
+            torch_dtype=torch.bfloat16 if torch.cuda.is_bf16_supported() else "auto",
+            trust_remote_code=True,
+            low_cpu_mem_usage=True,
+        ).to(device).eval()
     
     return model, processor, device
 
@@ -133,13 +157,23 @@ def run_single_inference(model, processor, device, image_path, prompt_text):
         
         # 추론 실행
         with torch.no_grad():
-            generated_ids = model.generate(
-                **model_inputs,
-                max_new_tokens=256,
-                do_sample=False,
-                temperature=0.0,
-                top_p=1.0,
-            )
+            # DataParallel 모델인 경우 .module을 통해 접근
+            if hasattr(model, 'module'):
+                generated_ids = model.module.generate(
+                    **model_inputs,
+                    max_new_tokens=256,
+                    do_sample=False,
+                    temperature=0.0,
+                    top_p=1.0,
+                )
+            else:
+                generated_ids = model.generate(
+                    **model_inputs,
+                    max_new_tokens=256,
+                    do_sample=False,
+                    temperature=0.0,
+                    top_p=1.0,
+                )
         
         # 생성된 토큰만 추출
         generated_ids_only = generated_ids[0][model_inputs["input_ids"].shape[1]:]
